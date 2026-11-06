@@ -100,7 +100,7 @@ function setupGroups(){
   group=Math.min(group,groupCount()-1);$("group").value=String(group);
 }
 function priorAttempt(){
-  return attempts.filter(a=>a.quiz_id===QUIZ_ID&&a.semester===$("semester").value.trim()&&a.base_phase===$("phase").value&&a.mode===mode&&a.group===group&&a.round_no===round).sort((a,b)=>b.completed_at.localeCompare(a.completed_at))[0]||null;
+  return attempts.filter(a=>a.quiz_id===QUIZ_ID&&a.semester===$("semester").value.trim()&&a.base_phase===$("phase").value&&a.mode===mode&&a.group===group&&a.round_no===round&&!a.replaced).sort((a,b)=>b.completed_at.localeCompare(a.completed_at))[0]||null;
 }
 function filled(q){
   if(q.type==="writing")return $("q-"+q.id)?.value.trim()||"";
@@ -124,7 +124,7 @@ function card(q,i){
   let html='<div><span class="n">'+(i+1)+'</span><span class="kind">'+esc(LABEL[q.type])+' · 第'+esc(q.lesson)+'课</span></div>';
   if(q.type==="writing"){
     html+='<div class="prompt">根据拼音和词语语境补写缺少的字：</div><span class="pinyin">'+esc(q.pinyin)+'</span>'+
-       '<div class="inline">'+q.word.split(q.answer).map((part,j)=>j===0?esc(part):'<input data-input="1" maxlength="1" id="q-'+q.id+'" autocomplete="off" aria-label="填写缺少的字">'+esc(part)).join("")+'</div>'+
+       '<div class="inline">'+q.word.split(q.answer).map((part,j)=>j===0?esc(part):(j===1?'<input data-input="1" maxlength="1" id="q-'+q.id+'" autocomplete="off" aria-label="填写缺少的字">':"□")+esc(part)).join("")+'</div>'+
        (q.origin==="example"?'<p class="help">补充示例词（仅作语境提示，非原书词语表）</p>':'');
   }else if(q.type==="vocab"){
     html+='<div class="prompt">看拼音写词语（第'+esc(q.lesson)+'课 · '+[...q.answer].length+'个字）：</div>'+
