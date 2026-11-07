@@ -42,8 +42,8 @@ mark{background:#ffecb8}
 .paper-mark{margin-top:10px;padding:10px;background:#f3f8fc;border:1px dashed #b5cfdf;border-radius:10px;color:#235c78}.paper-mark input{min-height:auto;width:18px;height:18px}.paper-mark-title{font-weight:800;color:#245778;margin-bottom:8px}.paper-mark-grid{display:flex;flex-wrap:wrap;gap:8px}.paper-mark-grid label{display:flex;align-items:center;gap:7px;border:1px solid #d3e5f0;background:#fff;padding:7px 10px;border-radius:9px;font-size:13px;font-weight:700}.paper-mark-grid label:has(input:disabled){opacity:.5}.paper-mark label{cursor:pointer}.paper-placeholder{display:inline-block;min-width:48px;padding:5px 10px;border-bottom:2px solid #558eb5;color:#728ba0;text-align:center}.paper-choice-note{font-size:12px;color:#56768a}.paper-bar{background:#eff8f1;padding:11px;border-radius:10px;margin:12px 0;color:#25674e}#paperFinishBtn{background:#177458;color:white;border-color:#177458}.proof-options{grid-template-columns:1fr}.proof-options label{align-items:flex-start;background:#fafdff;padding:12px 13px}.proof-option-text{line-height:1.8;overflow-wrap:anywhere}.poly-reading{display:grid;gap:10px}.poly-context{display:flex;align-items:center;justify-content:space-between;gap:10px;border:1px solid #dce7ee;padding:10px;border-radius:10px}.poly-context input{max-width:165px}.card[style*="order"]{margin-bottom:8px}#cards{column-gap:28px;row-gap:25px}</style></head><body><main><header>
 <div class="top">高语牧 · 四年级上册 · 语文</div><h1>字词闯关与错字成长档案</h1>
 <p class="muted">完全按上传的117—124页识字表、写字表、词语表整理。与旧三年级250字卷分开保存。</p>
-<div class="summary"><span class="tag">写字表 258字</span><span class="tag">识字表 263字</span><span class="tag">词语表 259词</span><span class="tag">原书已确认易混字 4组</span><span class="tag">每组3轮独立作答</span></div>
-<div class="notice">注意：原始JSON标注为“图片抄录初稿”，其中11项仍待人工核对，旁注也尚未完整转录。这份试卷是<strong>待最终校对版</strong>。拼音为自动辅助转写，个别多音字可能有误，家长可与原书核对。72处找不到教材原词的写字题使用“补充示例词”，已明确区分，不作为新增必写字。</div>
+<div class="summary"><span class="tag">写字表 258字</span><span class="tag">识字表 263字</span><span class="tag">词语表 259词</span><span class="tag">原书已确认易混字 4组</span><span class="tag">综合辨析 12题</span><span class="tag">多音字 20字</span><span class="tag">每组3轮独立作答</span></div>
+<div class="notice">注意：原始JSON标注为“图片抄录初稿”，其中11项仍待人工核对，旁注也尚未完整转录。这份试卷是<strong>待最终校对版</strong>。拼音为自动辅助转写，个别多音字可能有误，家长可与原书核对。找不到教材原词的写字题使用“补充示例词”，已明确区分，不作为新增必写字。新增多音字专项中的部分词语属于补充语境，不冒充教材原注。</div>
 </header>
 <section class="cloud"><h2>☁ 家庭云端学习档案 <span id="cloudBadge" class="small">连接中</span></h2>
 <p class="help">题目草稿自动保存到本机；整轮批改后保存成绩，解锁后自动同步 Supabase。家庭暗号不会写入学习记录。</p>
@@ -69,7 +69,7 @@ const QUIZ_ID="gaoyumu-grade4-chinese-2026-v1";
 const SB_URL="https://iqlnwzxmtjjgzisufljd.supabase.co",SB_PUBLIC_KEY="sb_publishable_jnY3xbWPgPFBd6naW35bXQ_tzZcNOTE";
 const K="gaoyumu-chinese-grade4-2026-v1";
 const PAPER_KEY=K+"-paper-sessions";
-const LABEL={writing:"写字表",reading:"识字表",vocab:"词语表",notes:"课本旁注",proof:"易混字综合辨析",poly:"多音字拼音默写"};
+const LABEL={writing:"写字表",reading:"识字表",vocab:"词语表",notes:"易混字",proof:"易混字综合辨析",poly:"多音字拼音默写"};
 const $=id=>document.getElementById(id);
 const esc=v=>String(v==null?"":v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const get=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))||f}catch(_){return f}};
