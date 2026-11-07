@@ -140,9 +140,34 @@ function priorAttempt(){
   return attempts.filter(a=>a.quiz_id===QUIZ_ID&&a.semester===$("semester").value.trim()&&a.base_phase===$("phase").value&&a.mode===mode&&a.group===group&&a.round_no===round&&!a.replaced&&(a.study_mode||"typing")===studyMode).sort((a,b)=>b.completed_at.localeCompare(a.completed_at))[0]||null;
 }
 function filled(q){
-  if(q.type==="writing")return $("q-"+q.id)?.value.trim()||"";
-  if(q.type==="vocab")return $("q-"+q.id)?.value.trim()||"";
+  if(q.type==="writing"||q.type==="vocab")return $("q-"+q.id)?.value.trim()||"";
+  if(q.type==="poly")return q.readings.map((_,i)=>
+    document.querySelector('[data-poly-id="'+q.id+'"][data-poly-no="'+i+'"]')?.value.trim()||"").join("|");
   return document.querySelector('input[name="q-'+q.id+'"]:checked')?.value||"";
+}
+function completed(q){
+  if(q.type==="poly")return q.readings.every((_,i)=>
+    !!document.querySelector('[data-poly-id="'+q.id+'"][data-poly-no="'+i+'"]')?.value.trim());
+  return filled(q)!=="";
+}
+function phoneme(s){
+ let x=String(s||"").trim().toLowerCase().replace(/\s+/g,"").normalize("NFC");
+ const accented="āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ",plain="aeiouv";let tone=0;
+ x=x.replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/g,ch=>{
+   const n=accented.indexOf(ch);tone=n%4+1;return plain[Math.floor(n/4)];
+ });
+ x=x.replace(/ü/g,"v").replace(/u:/g,"v");
+ return /[1-5]$/.test(x)?x:x+(tone?String(tone):"");
+}
+function isCorrect(q,s){
+ if(q.type!=="poly")return normalize(s)===normalize(q.answer);
+ const values=String(s||"").split("|");
+ return values.length===q.readings.length&&q.readings.every((x,i)=>!!values[i]&&phoneme(values[i])===phoneme(x.pinyin));
+}
+function feedbackFor(q){
+ if(q.type==="proof")return esc(q.explain);
+ if(q.type==="poly")return "完整拼音："+q.readings.map(x=>esc(x.word)+" <strong>"+esc(x.pinyin)+"</strong>").join("；");
+ return q.type==="writing"?"参考词语："+esc(q.word):"";
 }
 function answers(){const a={};questions.forEach(q=>a[q.id]=filled(q));return a;}
 function saveDraft(){if(locked)return;drafts[slug()]=answers();put(K+"-drafts",drafts);}
@@ -159,7 +184,7 @@ function showProgress(){
     return;
   }
   $("paperFinishBtn").hidden=true;
-  const count=questions.filter(q=>filled(q)!=="").length;
+  const count=questions.filter(q=>completed(q)).length;
   const all=questions.length;
   $("answerProgress").textContent="已答 "+count+" / "+all+" 题";
   $("progressFill").style.width=(100*count/Math.max(1,all))+"%";
@@ -228,7 +253,13 @@ function card(q,i){
 function fillSaved(ans){
   questions.forEach(q=>{
     if(q.type==="writing"||q.type==="vocab"){const input=$("q-"+q.id);if(input)input.value=ans[q.id]||"";}
-    else document.querySelectorAll('input[name="q-'+q.id+'"]').forEach(x=>x.checked=x.value===(ans[q.id]||""));
+    else if(q.type==="poly"){
+      const parts=String(ans[q.id]||"").split("|");
+      q.readings.forEach((_,i)=>{
+       const input=document.querySelector('[data-poly-id="'+q.id+'"][data-poly-no="'+i+'"]');
+       if(input)input.value=parts[i]||"";
+      });
+    }else document.querySelectorAll('input[name="q-'+q.id+'"]').forEach(x=>x.checked=x.value===(ans[q.id]||""));
   });
 }
 function showGraded(a,scroll){
@@ -244,10 +275,10 @@ function showGraded(a,scroll){
   let correct=0;
   questions.forEach(q=>{
     const item=byId.get(q.id);const ans=item?.answer||"";
-    const okay=normalize(ans)===normalize(q.answer);if(okay)correct++;
+    const okay=isCorrect(q,ans);if(okay)correct++;
     const c=$("card-"+q.id);c.classList.add("graded",okay?"correct":"wrong");
-    c.querySelector(".feedback").innerHTML=(okay?"✓ 已答对":"✗ 需要复习")+'　参考答案：<strong>'+esc(q.answer)+'</strong>'+
-      (q.type==="writing"?'　参考词语：'+esc(q.word):'');
+    c.querySelector(".feedback").innerHTML=(okay?"✓ 已答对":"✗ 需要复习")+
+      '　正确答案：<strong>'+esc(q.type==="poly"?q.readings.map(x=>x.pinyin).join("、"):q.answer)+'</strong>　'+feedbackFor(q);
   });
   $("result").hidden=false;$("result").innerHTML='<strong>本轮已批改</strong>：'+correct+'/'+questions.length+' 题正确。错题已进入成长档案。';
   $("gradeBtn").textContent="本轮已批改";$("gradeBtn").disabled=true;
@@ -267,8 +298,7 @@ function renderPaperReview(){
       tick.checked=!!session.marks[q.id];
       tick.disabled=!(answersVisible&&session.revealed&&rr===round);
     });
-    c.querySelector(".feedback").innerHTML='参考答案：<strong>'+esc(q.answer)+'</strong>'+
-      (q.type==="writing"?'　参考词语：'+esc(q.word):'');
+    c.querySelector(".feedback").innerHTML='参考答案：<strong>'+esc(q.type==="poly"?q.readings.map(x=>x.pinyin).join("、"):q.answer)+'</strong>　'+feedbackFor(q);
     if(p.marks[q.id])correct++;
   });
   $("result").hidden=false;
@@ -320,11 +350,11 @@ function showPaper(){
 function grade(){
   if(studyMode==="paper"){revealPaper();return;}
   if(locked)return;
-  if(questions.some(q=>filled(q)==="")){showProgress();return;}
+  if(questions.some(q=>!completed(q))){showProgress();return;}
   const meta={quiz_id:QUIZ_ID,id:newId(),child_name:"高语牧",semester:$("semester").value.trim(),
     base_phase:$("phase").value,mode,group,round_no:round,completed_at:new Date().toISOString()};
   const items=questions.map(q=>({id:q.id,type:q.type,focus:q.focus,word:q.word,expected:q.answer,
-    answer:filled(q),correct:normalize(filled(q))===normalize(q.answer)}));
+    answer:filled(q),correct:isCorrect(q,filled(q))}));
   meta.items=items;meta.total_questions=items.length;meta.correct_questions=items.filter(x=>x.correct).length;
   meta.score=Math.round(100*meta.correct_questions/meta.total_questions);
   attempts.push(meta);
