@@ -39,7 +39,7 @@ button{font:inherit;font-weight:700;border:1px solid #aac7db;background:#eaf5fc;
 mark{background:#ffecb8}
 @media(max-width:740px){main{padding:10px 10px 50px}#cards{grid-template-columns:1fr}.card{padding:16px}.toolbar label{min-width:135px}}
 @media print{header,.cloud,.actions,.tabs,.toolbar,.feedback,.notice{display:none!important}.card{page-break-inside:avoid}#cards{display:block}.card{margin-bottom:12px}}
-.paper-mark{margin-top:10px;padding:10px;background:#f3f8fc;border:1px dashed #b5cfdf;border-radius:10px;color:#235c78}.paper-mark input{min-height:auto;width:18px;height:18px}.paper-mark-title{font-weight:800;color:#245778;margin-bottom:8px}.paper-mark-grid{display:flex;flex-wrap:wrap;gap:8px}.paper-mark-grid label{display:flex;align-items:center;gap:7px;border:1px solid #d3e5f0;background:#fff;padding:7px 10px;border-radius:9px;font-size:13px;font-weight:700}.paper-mark-grid label:has(input:disabled){opacity:.5}.paper-mark label{cursor:pointer}.paper-placeholder{display:inline-block;min-width:48px;padding:5px 10px;border-bottom:2px solid #558eb5;color:#728ba0;text-align:center}.paper-choice-note{font-size:12px;color:#56768a}.paper-bar{background:#eff8f1;padding:11px;border-radius:10px;margin:12px 0;color:#25674e}#paperFinishBtn{background:#177458;color:white;border-color:#177458}</style></head><body><main><header>
+.paper-mark{margin-top:10px;padding:10px;background:#f3f8fc;border:1px dashed #b5cfdf;border-radius:10px;color:#235c78}.paper-mark input{min-height:auto;width:18px;height:18px}.paper-mark-title{font-weight:800;color:#245778;margin-bottom:8px}.paper-mark-grid{display:flex;flex-wrap:wrap;gap:8px}.paper-mark-grid label{display:flex;align-items:center;gap:7px;border:1px solid #d3e5f0;background:#fff;padding:7px 10px;border-radius:9px;font-size:13px;font-weight:700}.paper-mark-grid label:has(input:disabled){opacity:.5}.paper-mark label{cursor:pointer}.paper-placeholder{display:inline-block;min-width:48px;padding:5px 10px;border-bottom:2px solid #558eb5;color:#728ba0;text-align:center}.paper-choice-note{font-size:12px;color:#56768a}.paper-bar{background:#eff8f1;padding:11px;border-radius:10px;margin:12px 0;color:#25674e}#paperFinishBtn{background:#177458;color:white;border-color:#177458}.proof-options{grid-template-columns:1fr}.proof-options label{align-items:flex-start;background:#fafdff;padding:12px 13px}.proof-option-text{line-height:1.8;overflow-wrap:anywhere}.poly-reading{display:grid;gap:10px}.poly-context{display:flex;align-items:center;justify-content:space-between;gap:10px;border:1px solid #dce7ee;padding:10px;border-radius:10px}.poly-context input{max-width:165px}.card[style*="order"]{margin-bottom:8px}#cards{column-gap:28px;row-gap:25px}</style></head><body><main><header>
 <div class="top">高语牧 · 四年级上册 · 语文</div><h1>字词闯关与错字成长档案</h1>
 <p class="muted">完全按上传的117—124页识字表、写字表、词语表整理。与旧三年级250字卷分开保存。</p>
 <div class="summary"><span class="tag">写字表 258字</span><span class="tag">识字表 263字</span><span class="tag">词语表 259词</span><span class="tag">原书已确认易混字 4组</span><span class="tag">每组3轮独立作答</span></div>
@@ -51,7 +51,7 @@ mark{background:#ffecb8}
 <label>本次阶段<select id="phase"><option>预习</option><option selected>复习</option><option>期末复习</option></select></label><label>家庭暗号<input id="passphrase" type="password" autocomplete="off" placeholder="首次在此设备解锁"></label></div>
 <div class="cloud-buttons"><button id="unlockBtn" class="primary">解锁家庭档案</button><button id="syncBtn">同步已批改记录</button><button id="restoreBtn">从云端恢复</button></div><p id="cloudStatus" class="help">等待连接……</p></section>
 <section class="panel">
-<h2>选择练习</h2><div class="tabs" id="tabs"><button type="button" class="tab active" data-mode="writing">✍ 写字表 · 258字</button><button type="button" class="tab" data-mode="vocab">📖 词语表 · 259词</button><button type="button" class="tab" data-mode="reading">🗣 识字表 · 263字</button><button type="button" class="tab" data-mode="notes">🔍 原书易混字 · 8题</button></div>
+<h2>选择练习</h2><div class="tabs" id="tabs"><button type="button" class="tab active" data-mode="writing">✍ 写字表 · 258字</button><button type="button" class="tab" data-mode="vocab">📖 词语表 · 259词</button><button type="button" class="tab" data-mode="reading">🗣 识字表 · 263字</button><button type="button" class="tab" data-mode="notes">🔍 原书旁注 · 8题</button><button type="button" class="tab" data-mode="proof">🕵️ 易混字综合辨析 · 12题</button><button type="button" class="tab" data-mode="poly">✍ 多音字 · 写全所有读音</button></div>
 <div class="toolbar"><label>答题方式<select id="answerMode"><option value="paper" selected>纸上手写 · 自己核对</option><option value="typing">网页输入 · 自动批改</option></select></label><label>题目分组<select id="group"></select></label><label>复习轮次<select id="round"><option value="1">第1轮</option><option value="2">第2轮</option><option value="3">第3轮</option></select></label><button id="startBtn">开始 / 切换练习</button></div>
 <div class="progress"><div id="progressFill"></div></div>
 <div class="stats"><strong id="currentTitle">写字表 · 第1组 · 第1轮</strong><span id="answerProgress">已答 0 题</span></div>
@@ -69,7 +69,7 @@ const QUIZ_ID="gaoyumu-grade4-chinese-2026-v1";
 const SB_URL="https://iqlnwzxmtjjgzisufljd.supabase.co",SB_PUBLIC_KEY="sb_publishable_jnY3xbWPgPFBd6naW35bXQ_tzZcNOTE";
 const K="gaoyumu-chinese-grade4-2026-v1";
 const PAPER_KEY=K+"-paper-sessions";
-const LABEL={writing:"写字表",reading:"识字表",vocab:"词语表",notes:"易混字"};
+const LABEL={writing:"写字表",reading:"识字表",vocab:"词语表",notes:"课本旁注",proof:"易混字综合辨析",poly:"多音字拼音默写"};
 const $=id=>document.getElementById(id);
 const esc=v=>String(v==null?"":v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const get=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))||f}catch(_){return f}};
@@ -85,7 +85,39 @@ const slug=()=>[$("semester").value.trim(),$("phase").value,mode,group,round].jo
 const newId=()=>crypto.randomUUID?crypto.randomUUID():"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,c=>{const x=Math.random()*16|0;return(c==="x"?x:(x&3|8)).toString(16)});
 const entries=()=>BANK[mode]||[];
 const chunk=()=>mode==="notes"?BANK.notes:entries().slice(group*44,(group+1)*44);
+function makeProofQuestion(i){
+ const correctAt=(i*3+1)%4,options=[],fixes=[];
+ const known=BANK.vocab.map(x=>x.word);
+ const anchors=[0,1,2,3].map(j=>BANK.proof[(i*4+j)%BANK.proof.length]);
+ for(let j=0;j<4;j++){
+  const anchor=anchors[j];
+  const words=[anchor.word],start=(i*17+j*31)%known.length;
+  for(let k=0;words.length<4&&k<known.length;k++){
+   const word=known[(start+k)%known.length];
+   if(!words.includes(word)&&!anchors.some(a=>a.word===word))words.push(word);
+  }
+  if(words.length!==4)throw Error("教材词语数量不足");
+  const turn=(i+j)%4,mixed=words.slice(turn).concat(words.slice(0,turn));
+  if(j!==correctAt){
+   mixed[mixed.indexOf(anchor.word)]=anchor.wrong;
+   fixes.push(String.fromCharCode(65+j)+"："+anchor.wrong+" → "+anchor.word);
+  }
+  options.push(mixed.join("　"));
+ }
+ return {id:"proof-"+i,type:"proof",lesson:"专项",focus:"辨析第"+(i+1)+"题",
+   word:"易混字成组辨析",answer:options[correctAt],options,
+   explain:"其他组的错别字："+fixes.join("；"),
+   prompt:"下面四组词语中，没有错别字的一项是（ ）。每组四个词，请仔细辨析。"};
+}
+function makePolyQuestion(p,i){
+ return {id:"poly-"+i,type:"poly",lesson:"专项",focus:p.char,
+   word:p.contexts.map(x=>x.word).join("、"),
+   readings:p.contexts,answer:p.contexts.map(x=>x.pinyin).join("|"),
+   prompt:"请分别写出“"+p.char+"”在下面每个词语中的读音（带声调）。"};
+}
 function questionsForCurrent(){
+  if(mode==="proof")return Array.from({length:12},(_,i)=>makeProofQuestion(i));
+  if(mode==="poly")return BANK.poly.map((p,i)=>makePolyQuestion(p,i));
   return chunk().map((e,i)=>{
     const qi=mode==="notes"?i:e.idx;
     const id=mode+"-"+qi;
@@ -95,11 +127,11 @@ function questionsForCurrent(){
     return {id,type:mode,lesson:e.lesson,answer:e.answer,focus:e.answer,word:e.ref,pinyin:e.pinyin,masked:e.context,options:[e.target,e.other]};
   });
 }
-const groupCount=()=>Math.ceil(entries().length/44);
+const groupCount=()=>mode==="proof"||mode==="poly"?1:Math.ceil(entries().length/44);
 function setupGroups(){
   $("group").innerHTML="";
   for(let i=0;i<groupCount();i++){
-    const n=mode==="notes"?BANK.notes.length:entries().slice(i*44,(i+1)*44).length;
+    const n=mode==="proof"?12:mode==="poly"?BANK.poly.length:mode==="notes"?BANK.notes.length:entries().slice(i*44,(i+1)*44).length;
     $("group").insertAdjacentHTML("beforeend",'<option value="'+i+'">第'+(i+1)+'组 · '+n+'题</option>');
   }
   group=Math.min(group,groupCount()-1);$("group").value=String(group);
@@ -140,12 +172,25 @@ function card(q,i){
   const article=document.createElement("article");article.className="card";article.id="card-"+q.id;
   let html='<div><span class="n">'+(i+1)+'</span><span class="kind">'+esc(LABEL[q.type])+' · 第'+esc(q.lesson)+'课</span></div>';
   if(q.type==="writing"){
+    const writingSet=new Set(BANK.writing.map(x=>x.char));
+    const masked=[...q.word].map(ch=>ch===q.answer?"¤":writingSet.has(ch)?"□":ch).join("");
+    const chunks=masked.split("¤");
+    const hint=esc(chunks[0])+'<input data-input="1" maxlength="1" id="q-'+q.id+'" autocomplete="off" aria-label="填写缺少的字">'+
+      chunks.slice(1).map((x,i)=>(i?"□":"")+esc(x)).join("");
     html+='<div class="prompt">根据拼音和词语语境补写缺少的字：</div><span class="pinyin">'+esc(q.pinyin)+'</span>'+
-       '<div class="inline">'+q.word.split(q.answer).map((part,j)=>j===0?esc(part):(j===1?'<input data-input="1" maxlength="1" id="q-'+q.id+'" autocomplete="off" aria-label="填写缺少的字">':"□")+esc(part)).join("")+'</div>'+
+       '<div class="inline">'+hint+'</div>'+
        (q.origin==="example"?'<p class="help">补充示例词（仅作语境提示，非原书词语表）</p>':'');
   }else if(q.type==="vocab"){
     html+='<div class="prompt">看拼音写词语（第'+esc(q.lesson)+'课 · '+[...q.answer].length+'个字）：</div>'+
        '<span class="pinyin">'+esc(q.pinyin)+'</span><input class="answertext" data-input="1" id="q-'+q.id+'" placeholder="请输入完整词语" autocomplete="off">';
+  }else if(q.type==="proof"){
+    html+='<div class="prompt">'+esc(q.prompt)+'</div><div class="options proof-options">'+q.options.map((text,i)=>
+      '<label><input data-input="1" type="radio" name="q-'+q.id+'" value="'+esc(text)+'"><span class="proof-option-text"><b>'+String.fromCharCode(65+i)+'.</b> '+esc(text)+'</span></label>').join("")+'</div>';
+  }else if(q.type==="poly"){
+    html+='<div class="prompt">'+esc(q.prompt)+'</div><div class="poly-reading">'+q.readings.map((part,i)=>
+      '<label class="poly-context"><span>'+esc(part.word)+'</span><input data-input="1" data-poly-id="'+q.id+'" data-poly-no="'+i+
+      '" type="text" autocomplete="off" spellcheck="false" placeholder="写出拼音" aria-label="'+esc(part.word)+'中的读音"></label>').join("")+
+      '</div><p class="help">可使用带声调拼音或数字声调，如 zhang3。少写一处不能批改。</p>';
   }else if(q.type==="reading"){
     const pool=[...new Set(BANK.reading.map(x=>x.pinyin))].filter(x=>x!==q.answer);
     const n=Number(q.id.replace(/\D/g,""))||0;const options=[q.answer,pool[(n*7+17)%pool.length],pool[(n*11+21)%pool.length],pool[(n*13+33)%pool.length]];
@@ -169,13 +214,14 @@ function card(q,i){
       }).join("")+'</div><div class="help">勾选表示这一轮手写正确；未勾选表示未掌握。未核对的轮次暂不可勾选。</div></div>';
   }
   article.innerHTML=html;
+  if(q.type==="writing")article.style.order=String((i%8)*6+Math.floor(i/8));
   if(studyMode==="paper"){
     article.querySelectorAll("[data-input]").forEach(input=>{
-      if(input.type==="radio"){const option=input.closest("label");if(option)option.remove();}
+      if(input.type==="radio"){if(q.type==="proof")input.remove();else{const option=input.closest("label");if(option)option.remove();}}
       else{const box=document.createElement("span");box.className="paper-placeholder";box.textContent=input.maxLength===1?"□":"（写在纸上）";input.replaceWith(box);}
     });
     const options=article.querySelector(".options");
-    if(options){const note=document.createElement("p");note.className="help";note.textContent="请独立在纸上写出正确答案，核对前不显示选项。";options.replaceWith(note);}
+    if(options&&q.type!=="proof"){const note=document.createElement("p");note.className="help";note.textContent="请独立在纸上写出正确答案，核对前不显示选项。";options.replaceWith(note);}
   }
   return article;
 }
