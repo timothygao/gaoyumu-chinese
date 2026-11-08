@@ -1,0 +1,5691 @@
+{
+  "writing": [
+    {
+      "lesson": "1",
+      "char": "据",
+      "word": "据说",
+      "pinyin": "jùshuō",
+      "origin": "新版教材词语表语境",
+      "idx": 0
+    },
+    {
+      "lesson": "1",
+      "char": "随",
+      "word": "随便",
+      "pinyin": "suí ?",
+      "origin": "新版教材词语表语境",
+      "idx": 1
+    },
+    {
+      "lesson": "1",
+      "char": "堤",
+      "word": "大堤",
+      "pinyin": "dà dī",
+      "origin": "补充语境（非课本词语）",
+      "idx": 2
+    },
+    {
+      "lesson": "1",
+      "char": "顿",
+      "word": "顿时",
+      "pinyin": "dùn shí",
+      "origin": "新版教材词语表语境",
+      "idx": 3
+    },
+    {
+      "lesson": "1",
+      "char": "逐",
+      "word": "逐渐",
+      "pinyin": "zhú jiàn",
+      "origin": "新版教材词语表语境",
+      "idx": 4
+    },
+    {
+      "lesson": "1",
+      "char": "渐",
+      "word": "逐渐",
+      "pinyin": "zhú jiàn",
+      "origin": "新版教材词语表语境",
+      "idx": 5
+    },
+    {
+      "lesson": "1",
+      "char": "堵",
+      "word": "堵车",
+      "pinyin": "dǔ chē",
+      "origin": "补充语境（非课本词语）",
+      "idx": 6
+    },
+    {
+      "lesson": "1",
+      "char": "墙",
+      "word": "墙角",
+      "pinyin": "qiáng jiǎo",
+      "origin": "补充语境（非课本词语）",
+      "idx": 7
+    },
+    {
+      "lesson": "1",
+      "char": "浩",
+      "word": "浩浩荡荡",
+      "pinyin": "hàohàodàng dàng",
+      "origin": "新版教材词语表语境",
+      "idx": 8
+    },
+    {
+      "lesson": "1",
+      "char": "崩",
+      "word": "山崩地裂",
+      "pinyin": "shān bēng dì liè",
+      "origin": "新版教材词语表语境",
+      "idx": 9
+    },
+    {
+      "lesson": "1",
+      "char": "霎",
+      "word": "霎时",
+      "pinyin": "shà shí",
+      "origin": "新版教材词语表语境",
+      "idx": 10
+    },
+    {
+      "lesson": "1",
+      "char": "余",
+      "word": "余波",
+      "pinyin": "yú bō",
+      "origin": "新版教材词语表语境",
+      "idx": 11
+    },
+    {
+      "lesson": "2",
+      "char": "繁",
+      "word": "繁星",
+      "pinyin": "fán xīng",
+      "origin": "新版教材词语表语境",
+      "idx": 12
+    },
+    {
+      "lesson": "2",
+      "char": "怀",
+      "word": "怀抱",
+      "pinyin": "huái bào",
+      "origin": "新版教材词语表语境",
+      "idx": 13
+    },
+    {
+      "lesson": "2",
+      "char": "寂",
+      "word": "静寂",
+      "pinyin": "jìng jì",
+      "origin": "补充语境（非课本词语）",
+      "idx": 14
+    },
+    {
+      "lesson": "2",
+      "char": "谈",
+      "word": "谈话",
+      "pinyin": "tán huà",
+      "origin": "新版教材词语表语境",
+      "idx": 15
+    },
+    {
+      "lesson": "2",
+      "char": "熟",
+      "word": "熟字",
+      "pinyin": "shú ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 16
+    },
+    {
+      "lesson": "2",
+      "char": "躺",
+      "word": "躺下",
+      "pinyin": "tǎng xià",
+      "origin": "补充语境（非课本词语）",
+      "idx": 17
+    },
+    {
+      "lesson": "2",
+      "char": "模",
+      "word": "模糊",
+      "pinyin": "mó hú",
+      "origin": "新版教材词语表语境",
+      "idx": 18
+    },
+    {
+      "lesson": "2",
+      "char": "糊",
+      "word": "模糊",
+      "pinyin": "mó hú",
+      "origin": "新版教材词语表语境",
+      "idx": 19
+    },
+    {
+      "lesson": "2",
+      "char": "围",
+      "word": "周围",
+      "pinyin": "zhōu wéi",
+      "origin": "新版教材词语表语境",
+      "idx": 20
+    },
+    {
+      "lesson": "2",
+      "char": "舞",
+      "word": "飞舞",
+      "pinyin": "? wǔ",
+      "origin": "新版教材词语表语境",
+      "idx": 21
+    },
+    {
+      "lesson": "4",
+      "char": "舒",
+      "word": "舒适",
+      "pinyin": "shū shì",
+      "origin": "新版教材词语表语境",
+      "idx": 22
+    },
+    {
+      "lesson": "4",
+      "char": "适",
+      "word": "舒适",
+      "pinyin": "shū shì",
+      "origin": "新版教材词语表语境",
+      "idx": 23
+    },
+    {
+      "lesson": "4",
+      "char": "揭",
+      "word": "揭晓",
+      "pinyin": "jiēxiǎo",
+      "origin": "新版教材词语表语境",
+      "idx": 24
+    },
+    {
+      "lesson": "4",
+      "char": "晓",
+      "word": "揭晓",
+      "pinyin": "jiēxiǎo",
+      "origin": "新版教材词语表语境",
+      "idx": 25
+    },
+    {
+      "lesson": "4",
+      "char": "滚",
+      "word": "打滚",
+      "pinyin": "dǎ gǔn",
+      "origin": "新版教材词语表语境",
+      "idx": 26
+    },
+    {
+      "lesson": "4",
+      "char": "滑",
+      "word": "光滑",
+      "pinyin": "guāng huá",
+      "origin": "新版教材词语表语境",
+      "idx": 27
+    },
+    {
+      "lesson": "4",
+      "char": "擦",
+      "word": "擦拭",
+      "pinyin": "cā shì",
+      "origin": "补充语境（非课本词语）",
+      "idx": 28
+    },
+    {
+      "lesson": "4",
+      "char": "探",
+      "word": "探索",
+      "pinyin": "tàn suǒ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 29
+    },
+    {
+      "lesson": "4",
+      "char": "曾",
+      "word": "曾经",
+      "pinyin": "céngjīng",
+      "origin": "新版教材词语表语境",
+      "idx": 30
+    },
+    {
+      "lesson": "4",
+      "char": "沟",
+      "word": "水沟",
+      "pinyin": "shuǐ gōu",
+      "origin": "新版教材词语表语境",
+      "idx": 31
+    },
+    {
+      "lesson": "4",
+      "char": "涨",
+      "word": "涨水",
+      "pinyin": "zhǎng shuǐ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 32
+    },
+    {
+      "lesson": "5",
+      "char": "蚊",
+      "word": "蚊子",
+      "pinyin": "wén zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 33
+    },
+    {
+      "lesson": "5",
+      "char": "即",
+      "word": "即使",
+      "pinyin": "jí ?",
+      "origin": "新版教材词语表语境",
+      "idx": 34
+    },
+    {
+      "lesson": "5",
+      "char": "题",
+      "word": "问题",
+      "pinyin": "wèn tí",
+      "origin": "新版教材词语表语境",
+      "idx": 35
+    },
+    {
+      "lesson": "5",
+      "char": "绳",
+      "word": "绳子",
+      "pinyin": "shéng zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 36
+    },
+    {
+      "lesson": "5",
+      "char": "嘴",
+      "word": "嘴巴",
+      "pinyin": "zuǐ ba",
+      "origin": "补充语境（非课本词语）",
+      "idx": 37
+    },
+    {
+      "lesson": "5",
+      "char": "蝇",
+      "word": "苍蝇",
+      "pinyin": "cāng yíng",
+      "origin": "新版教材词语表语境",
+      "idx": 38
+    },
+    {
+      "lesson": "5",
+      "char": "研",
+      "word": "研究",
+      "pinyin": "yán jiū",
+      "origin": "新版教材词语表语境",
+      "idx": 39
+    },
+    {
+      "lesson": "5",
+      "char": "究",
+      "word": "研究",
+      "pinyin": "yán jiū",
+      "origin": "新版教材词语表语境",
+      "idx": 40
+    },
+    {
+      "lesson": "5",
+      "char": "驾",
+      "word": "驾车",
+      "pinyin": "jià chē",
+      "origin": "补充语境（非课本词语）",
+      "idx": 41
+    },
+    {
+      "lesson": "5",
+      "char": "驶",
+      "word": "行驶",
+      "pinyin": "xíng shǐ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 42
+    },
+    {
+      "lesson": "6",
+      "char": "帽",
+      "word": "帽子",
+      "pinyin": "mào zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 43
+    },
+    {
+      "lesson": "6",
+      "char": "脑",
+      "word": "脑袋",
+      "pinyin": "nǎo dai",
+      "origin": "新版教材词语表语境",
+      "idx": 44
+    },
+    {
+      "lesson": "6",
+      "char": "袋",
+      "word": "脑袋",
+      "pinyin": "nǎo dai",
+      "origin": "新版教材词语表语境",
+      "idx": 45
+    },
+    {
+      "lesson": "6",
+      "char": "假",
+      "word": "假如",
+      "pinyin": "jiǎ rú",
+      "origin": "新版教材词语表语境",
+      "idx": 46
+    },
+    {
+      "lesson": "6",
+      "char": "扣",
+      "word": "扣子",
+      "pinyin": "kòu zi",
+      "origin": "补充语境（非课本词语）",
+      "idx": 47
+    },
+    {
+      "lesson": "6",
+      "char": "懂",
+      "word": "懂事",
+      "pinyin": "dǒng shì",
+      "origin": "新版教材词语表语境",
+      "idx": 48
+    },
+    {
+      "lesson": "6",
+      "char": "溜",
+      "word": "一溜烟",
+      "pinyin": "? liū ?",
+      "origin": "新版教材词语表语境",
+      "idx": 49
+    },
+    {
+      "lesson": "6",
+      "char": "简",
+      "word": "简单",
+      "pinyin": "jiǎn dān",
+      "origin": "补充语境（非课本词语）",
+      "idx": 50
+    },
+    {
+      "lesson": "6",
+      "char": "摆",
+      "word": "摆放",
+      "pinyin": "bǎi fàng",
+      "origin": "新版教材词语表语境",
+      "idx": 51
+    },
+    {
+      "lesson": "6",
+      "char": "玻",
+      "word": "玻璃",
+      "pinyin": "bō li",
+      "origin": "新版教材词语表语境",
+      "idx": 52
+    },
+    {
+      "lesson": "6",
+      "char": "璃",
+      "word": "玻璃",
+      "pinyin": "bō li",
+      "origin": "新版教材词语表语境",
+      "idx": 53
+    },
+    {
+      "lesson": "园地1",
+      "char": "纲",
+      "word": "提纲",
+      "pinyin": "tí gāng",
+      "origin": "新版教材词语表语境",
+      "idx": 54
+    },
+    {
+      "lesson": "园地1",
+      "char": "揍",
+      "word": "揍字",
+      "pinyin": "? ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 55
+    },
+    {
+      "lesson": "园地1",
+      "char": "锈",
+      "word": "生锈",
+      "pinyin": "shēng xiù",
+      "origin": "新版教材词语表语境",
+      "idx": 56
+    },
+    {
+      "lesson": "园地1",
+      "char": "沫",
+      "word": "泡沫",
+      "pinyin": "pào mò",
+      "origin": "新版教材词语表语境",
+      "idx": 57
+    },
+    {
+      "lesson": "园地1",
+      "char": "综",
+      "word": "综合",
+      "pinyin": "zōnghé",
+      "origin": "新版教材词语表语境",
+      "idx": 58
+    },
+    {
+      "lesson": "园地1",
+      "char": "氧",
+      "word": "氧气",
+      "pinyin": "yǎng qì",
+      "origin": "新版教材词语表语境",
+      "idx": 59
+    },
+    {
+      "lesson": "园地1",
+      "char": "账",
+      "word": "结账",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表语境",
+      "idx": 60
+    },
+    {
+      "lesson": "园地1",
+      "char": "矿",
+      "word": "矿物",
+      "pinyin": "kuàngwù",
+      "origin": "新版教材词语表语境",
+      "idx": 61
+    },
+    {
+      "lesson": "园地1",
+      "char": "俱",
+      "word": "俱乐部",
+      "pinyin": "jù lè bù",
+      "origin": "新版教材词语表语境",
+      "idx": 62
+    },
+    {
+      "lesson": "8",
+      "char": "残",
+      "word": "残阳",
+      "pinyin": "cán yáng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 63
+    },
+    {
+      "lesson": "8",
+      "char": "铺",
+      "word": "铺路",
+      "pinyin": "pū lù",
+      "origin": "补充语境（非课本词语）",
+      "idx": 64
+    },
+    {
+      "lesson": "8",
+      "char": "壁",
+      "word": "壁画",
+      "pinyin": "bì huà",
+      "origin": "补充语境（非课本词语）",
+      "idx": 65
+    },
+    {
+      "lesson": "8",
+      "char": "横",
+      "word": "横线",
+      "pinyin": "héng xiàn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 66
+    },
+    {
+      "lesson": "8",
+      "char": "侧",
+      "word": "侧面",
+      "pinyin": "cè miàn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 67
+    },
+    {
+      "lesson": "8",
+      "char": "峰",
+      "word": "山峰",
+      "pinyin": "shān fēng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 68
+    },
+    {
+      "lesson": "8",
+      "char": "庐",
+      "word": "庐山",
+      "pinyin": "lú shān",
+      "origin": "补充语境（非课本词语）",
+      "idx": 69
+    },
+    {
+      "lesson": "8",
+      "char": "缘",
+      "word": "无缘无故",
+      "pinyin": "wú yuán wú gù",
+      "origin": "新版教材词语表语境",
+      "idx": 70
+    },
+    {
+      "lesson": "8",
+      "char": "降",
+      "word": "下降",
+      "pinyin": "xià jiàng",
+      "origin": "新版教材词语表语境",
+      "idx": 71
+    },
+    {
+      "lesson": "8",
+      "char": "评",
+      "word": "评字",
+      "pinyin": "píng ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 72
+    },
+    {
+      "lesson": "8",
+      "char": "章",
+      "word": "文章",
+      "pinyin": "wén zhāng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 73
+    },
+    {
+      "lesson": "8",
+      "char": "输",
+      "word": "输赢",
+      "pinyin": "shū yíng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 74
+    },
+    {
+      "lesson": "9",
+      "char": "虎",
+      "word": "爬山虎",
+      "pinyin": "páshān hǔ",
+      "origin": "新版教材词语表语境",
+      "idx": 75
+    },
+    {
+      "lesson": "9",
+      "char": "脚",
+      "word": "脚下",
+      "pinyin": "jiǎo xià",
+      "origin": "补充语境（非课本词语）",
+      "idx": 76
+    },
+    {
+      "lesson": "9",
+      "char": "操",
+      "word": "操场",
+      "pinyin": "cāo chǎng",
+      "origin": "新版教材词语表语境",
+      "idx": 77
+    },
+    {
+      "lesson": "9",
+      "char": "嫩",
+      "word": "嫩绿",
+      "pinyin": "nèn ?",
+      "origin": "新版教材词语表语境",
+      "idx": 78
+    },
+    {
+      "lesson": "9",
+      "char": "隙",
+      "word": "空隙",
+      "pinyin": "kōngxì",
+      "origin": "新版教材词语表语境",
+      "idx": 79
+    },
+    {
+      "lesson": "9",
+      "char": "柄",
+      "word": "叶柄",
+      "pinyin": "yè bǐng",
+      "origin": "新版教材词语表语境",
+      "idx": 80
+    },
+    {
+      "lesson": "9",
+      "char": "触",
+      "word": "触角",
+      "pinyin": "chù jiǎo",
+      "origin": "新版教材词语表语境",
+      "idx": 81
+    },
+    {
+      "lesson": "9",
+      "char": "痕",
+      "word": "痕迹",
+      "pinyin": "hén jì",
+      "origin": "新版教材词语表语境",
+      "idx": 82
+    },
+    {
+      "lesson": "9",
+      "char": "迹",
+      "word": "痕迹",
+      "pinyin": "hén jì",
+      "origin": "新版教材词语表语境",
+      "idx": 83
+    },
+    {
+      "lesson": "9",
+      "char": "瞧",
+      "word": "瞧不起",
+      "pinyin": "qiáo bù qǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 84
+    },
+    {
+      "lesson": "10",
+      "char": "宅",
+      "word": "住宅",
+      "pinyin": "zhù zhái",
+      "origin": "新版教材词语表语境",
+      "idx": 85
+    },
+    {
+      "lesson": "10",
+      "char": "毫",
+      "word": "毫不",
+      "pinyin": "háobù",
+      "origin": "补充语境（非课本词语）",
+      "idx": 86
+    },
+    {
+      "lesson": "10",
+      "char": "重",
+      "word": "重要",
+      "pinyin": "zhòng ?",
+      "origin": "新版教材词语表语境",
+      "idx": 87
+    },
+    {
+      "lesson": "10",
+      "char": "选",
+      "word": "选择",
+      "pinyin": "xuǎn zé",
+      "origin": "新版教材词语表语境",
+      "idx": 88
+    },
+    {
+      "lesson": "10",
+      "char": "择",
+      "word": "选择",
+      "pinyin": "xuǎn zé",
+      "origin": "新版教材词语表语境",
+      "idx": 89
+    },
+    {
+      "lesson": "10",
+      "char": "址",
+      "word": "住址",
+      "pinyin": "zhù zhǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 90
+    },
+    {
+      "lesson": "10",
+      "char": "厅",
+      "word": "大厅",
+      "pinyin": "dà tīng",
+      "origin": "新版教材词语表语境",
+      "idx": 91
+    },
+    {
+      "lesson": "10",
+      "char": "专",
+      "word": "专家",
+      "pinyin": "zhuān jiā",
+      "origin": "补充语境（非课本词语）",
+      "idx": 92
+    },
+    {
+      "lesson": "10",
+      "char": "修",
+      "word": "修理",
+      "pinyin": "xiū lǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 93
+    },
+    {
+      "lesson": "10",
+      "char": "较",
+      "word": "较大",
+      "pinyin": "jiào dà",
+      "origin": "补充语境（非课本词语）",
+      "idx": 94
+    },
+    {
+      "lesson": "10",
+      "char": "腿",
+      "word": "大腿",
+      "pinyin": "dà tuǐ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 95
+    },
+    {
+      "lesson": "10",
+      "char": "增",
+      "word": "增长",
+      "pinyin": "zēng zhǎng",
+      "origin": "新版教材词语表语境",
+      "idx": 96
+    },
+    {
+      "lesson": "11",
+      "char": "醒",
+      "word": "醒来",
+      "pinyin": "xǐng lái",
+      "origin": "补充语境（非课本词语）",
+      "idx": 97
+    },
+    {
+      "lesson": "11",
+      "char": "翻",
+      "word": "翻身",
+      "pinyin": "fānshēn",
+      "origin": "新版教材词语表语境",
+      "idx": 98
+    },
+    {
+      "lesson": "11",
+      "char": "缓",
+      "word": "缓缓",
+      "pinyin": "huǎn huǎn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 99
+    },
+    {
+      "lesson": "11",
+      "char": "踏",
+      "word": "踏步",
+      "pinyin": "tà bù",
+      "origin": "补充语境（非课本词语）",
+      "idx": 100
+    },
+    {
+      "lesson": "11",
+      "char": "丈",
+      "word": "丈夫",
+      "pinyin": "zhàng fu",
+      "origin": "补充语境（非课本词语）",
+      "idx": 101
+    },
+    {
+      "lesson": "11",
+      "char": "撑",
+      "word": "支撑",
+      "pinyin": "zhī chēng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 102
+    },
+    {
+      "lesson": "11",
+      "char": "疲",
+      "word": "精疲力竭",
+      "pinyin": "jīngpí lì jié",
+      "origin": "新版教材词语表语境",
+      "idx": 103
+    },
+    {
+      "lesson": "11",
+      "char": "竭",
+      "word": "精疲力竭",
+      "pinyin": "jīngpí lì jié",
+      "origin": "新版教材词语表语境",
+      "idx": 104
+    },
+    {
+      "lesson": "11",
+      "char": "耀",
+      "word": "照耀",
+      "pinyin": "zhào yào",
+      "origin": "新版教材词语表语境",
+      "idx": 105
+    },
+    {
+      "lesson": "11",
+      "char": "肢",
+      "word": "四肢",
+      "pinyin": "sì zhī",
+      "origin": "新版教材词语表语境",
+      "idx": 106
+    },
+    {
+      "lesson": "11",
+      "char": "整",
+      "word": "整个",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表语境",
+      "idx": 107
+    },
+    {
+      "lesson": "12",
+      "char": "填",
+      "word": "填空",
+      "pinyin": "tián kòng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 108
+    },
+    {
+      "lesson": "12",
+      "char": "帝",
+      "word": "帝字",
+      "pinyin": "dì ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 109
+    },
+    {
+      "lesson": "12",
+      "char": "曰",
+      "word": "子曰",
+      "pinyin": "zǐ yuē",
+      "origin": "补充语境（非课本词语）",
+      "idx": 110
+    },
+    {
+      "lesson": "12",
+      "char": "娃",
+      "word": "娃字",
+      "pinyin": "wá ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 111
+    },
+    {
+      "lesson": "12",
+      "char": "衔",
+      "word": "衔接",
+      "pinyin": "xián jiē",
+      "origin": "补充语境（非课本词语）",
+      "idx": 112
+    },
+    {
+      "lesson": "13",
+      "char": "喷",
+      "word": "喷射",
+      "pinyin": "pēn shè",
+      "origin": "新版教材词语表语境",
+      "idx": 113
+    },
+    {
+      "lesson": "13",
+      "char": "颗",
+      "word": "一颗",
+      "pinyin": "yì kē",
+      "origin": "补充语境（非课本词语）",
+      "idx": 114
+    },
+    {
+      "lesson": "13",
+      "char": "败",
+      "word": "气急败坏",
+      "pinyin": "? ? bài ?",
+      "origin": "新版教材词语表语境",
+      "idx": 115
+    },
+    {
+      "lesson": "13",
+      "char": "敬",
+      "word": "敬佩",
+      "pinyin": "jìngpèi",
+      "origin": "新版教材词语表语境",
+      "idx": 116
+    },
+    {
+      "lesson": "13",
+      "char": "佩",
+      "word": "敬佩",
+      "pinyin": "jìngpèi",
+      "origin": "新版教材词语表语境",
+      "idx": 117
+    },
+    {
+      "lesson": "13",
+      "char": "忍",
+      "word": "忍受",
+      "pinyin": "rěn shòu",
+      "origin": "新版教材词语表语境",
+      "idx": 118
+    },
+    {
+      "lesson": "13",
+      "char": "既",
+      "word": "既然",
+      "pinyin": "jì rán",
+      "origin": "补充语境（非课本词语）",
+      "idx": 119
+    },
+    {
+      "lesson": "13",
+      "char": "遭",
+      "word": "遭受",
+      "pinyin": "zāo shòu",
+      "origin": "新版教材词语表语境",
+      "idx": 120
+    },
+    {
+      "lesson": "13",
+      "char": "屈",
+      "word": "屈服",
+      "pinyin": "qū fú",
+      "origin": "新版教材词语表语境",
+      "idx": 121
+    },
+    {
+      "lesson": "13",
+      "char": "肝",
+      "word": "肝脏",
+      "pinyin": "gān zàng",
+      "origin": "新版教材词语表语境",
+      "idx": 122
+    },
+    {
+      "lesson": "13",
+      "char": "脏",
+      "word": "肝脏",
+      "pinyin": "gān zàng",
+      "origin": "新版教材词语表语境",
+      "idx": 123
+    },
+    {
+      "lesson": "13",
+      "char": "获",
+      "word": "获得",
+      "pinyin": "huò ?",
+      "origin": "新版教材词语表语境",
+      "idx": 124
+    },
+    {
+      "lesson": "园地2",
+      "char": "卉",
+      "word": "花卉",
+      "pinyin": "huā huì",
+      "origin": "新版教材词语表语境",
+      "idx": 125
+    },
+    {
+      "lesson": "园地2",
+      "char": "玫",
+      "word": "玫瑰",
+      "pinyin": "méiguī",
+      "origin": "新版教材词语表语境",
+      "idx": 126
+    },
+    {
+      "lesson": "园地2",
+      "char": "瑰",
+      "word": "玫瑰",
+      "pinyin": "méiguī",
+      "origin": "新版教材词语表语境",
+      "idx": 127
+    },
+    {
+      "lesson": "园地2",
+      "char": "牡",
+      "word": "牡丹",
+      "pinyin": "mǔ dān",
+      "origin": "新版教材词语表语境",
+      "idx": 128
+    },
+    {
+      "lesson": "园地2",
+      "char": "丹",
+      "word": "牡丹",
+      "pinyin": "mǔ dān",
+      "origin": "新版教材词语表语境",
+      "idx": 129
+    },
+    {
+      "lesson": "园地2",
+      "char": "蕾",
+      "word": "花蕾",
+      "pinyin": "huā lěi",
+      "origin": "新版教材词语表语境",
+      "idx": 130
+    },
+    {
+      "lesson": "园地2",
+      "char": "茉",
+      "word": "茉莉",
+      "pinyin": "mò lì",
+      "origin": "新版教材词语表语境",
+      "idx": 131
+    },
+    {
+      "lesson": "园地2",
+      "char": "莉",
+      "word": "茉莉",
+      "pinyin": "mò lì",
+      "origin": "新版教材词语表语境",
+      "idx": 132
+    },
+    {
+      "lesson": "园地2",
+      "char": "棠",
+      "word": "海棠",
+      "pinyin": "hǎi táng",
+      "origin": "新版教材词语表语境",
+      "idx": 133
+    },
+    {
+      "lesson": "15",
+      "char": "嗅",
+      "word": "嗅觉",
+      "pinyin": "xiù jué",
+      "origin": "补充语境（非课本词语）",
+      "idx": 134
+    },
+    {
+      "lesson": "15",
+      "char": "猛",
+      "word": "猛烈",
+      "pinyin": "měng liè",
+      "origin": "新版教材词语表语境",
+      "idx": 135
+    },
+    {
+      "lesson": "15",
+      "char": "烈",
+      "word": "猛烈",
+      "pinyin": "měng liè",
+      "origin": "新版教材词语表语境",
+      "idx": 136
+    },
+    {
+      "lesson": "15",
+      "char": "奈",
+      "word": "无可奈何",
+      "pinyin": "wú kě nài hé",
+      "origin": "新版教材词语表语境",
+      "idx": 137
+    },
+    {
+      "lesson": "15",
+      "char": "驱",
+      "word": "驱赶",
+      "pinyin": "qū gǎn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 138
+    },
+    {
+      "lesson": "15",
+      "char": "掩",
+      "word": "掩护",
+      "pinyin": "yǎnhù",
+      "origin": "新版教材词语表语境",
+      "idx": 139
+    },
+    {
+      "lesson": "15",
+      "char": "浑",
+      "word": "浑身",
+      "pinyin": "hún shēn",
+      "origin": "新版教材词语表语境",
+      "idx": 140
+    },
+    {
+      "lesson": "15",
+      "char": "牺",
+      "word": "牺牲",
+      "pinyin": "xī shēng",
+      "origin": "新版教材词语表语境",
+      "idx": 141
+    },
+    {
+      "lesson": "15",
+      "char": "牲",
+      "word": "牺牲",
+      "pinyin": "xī shēng",
+      "origin": "新版教材词语表语境",
+      "idx": 142
+    },
+    {
+      "lesson": "15",
+      "char": "庞",
+      "word": "庞大",
+      "pinyin": "páng dà",
+      "origin": "新版教材词语表语境",
+      "idx": 143
+    },
+    {
+      "lesson": "15",
+      "char": "强",
+      "word": "强大",
+      "pinyin": "qiáng dà",
+      "origin": "新版教材词语表语境",
+      "idx": 144
+    },
+    {
+      "lesson": "15",
+      "char": "量",
+      "word": "力量",
+      "pinyin": "lì liàng",
+      "origin": "新版教材词语表语境",
+      "idx": 145
+    },
+    {
+      "lesson": "16",
+      "char": "哩",
+      "word": "哩字",
+      "pinyin": "li ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 146
+    },
+    {
+      "lesson": "16",
+      "char": "陡",
+      "word": "陡峭",
+      "pinyin": "dǒu qiào",
+      "origin": "补充语境（非课本词语）",
+      "idx": 147
+    },
+    {
+      "lesson": "16",
+      "char": "级",
+      "word": "石级",
+      "pinyin": "shí jí",
+      "origin": "新版教材词语表语境",
+      "idx": 148
+    },
+    {
+      "lesson": "16",
+      "char": "链",
+      "word": "锁链",
+      "pinyin": "suǒ liàn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 149
+    },
+    {
+      "lesson": "16",
+      "char": "颤",
+      "word": "发颤",
+      "pinyin": "fā chàn",
+      "origin": "新版教材词语表语境",
+      "idx": 150
+    },
+    {
+      "lesson": "16",
+      "char": "纪",
+      "word": "年纪",
+      "pinyin": "nián jì",
+      "origin": "新版教材词语表语境",
+      "idx": 151
+    },
+    {
+      "lesson": "16",
+      "char": "攀",
+      "word": "攀登",
+      "pinyin": "pān dēng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 152
+    },
+    {
+      "lesson": "16",
+      "char": "猴",
+      "word": "猴子",
+      "pinyin": "hóu zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 153
+    },
+    {
+      "lesson": "16",
+      "char": "呵",
+      "word": "笑呵呵",
+      "pinyin": "xiào hē hē",
+      "origin": "新版教材词语表语境",
+      "idx": 154
+    },
+    {
+      "lesson": "16",
+      "char": "啦",
+      "word": "啦字",
+      "pinyin": "la ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 155
+    },
+    {
+      "lesson": "16",
+      "char": "鼓",
+      "word": "鼓舞",
+      "pinyin": "? wǔ",
+      "origin": "新版教材词语表语境",
+      "idx": 156
+    },
+    {
+      "lesson": "17",
+      "char": "峻",
+      "word": "崇山峻岭",
+      "pinyin": "chóng shān jùn lǐng",
+      "origin": "新版教材词语表语境",
+      "idx": 157
+    },
+    {
+      "lesson": "17",
+      "char": "旋",
+      "word": "盘旋",
+      "pinyin": "pán xuán",
+      "origin": "新版教材词语表语境",
+      "idx": 158
+    },
+    {
+      "lesson": "17",
+      "char": "扩",
+      "word": "扩建",
+      "pinyin": "kuòjiàn",
+      "origin": "新版教材词语表语境",
+      "idx": 159
+    },
+    {
+      "lesson": "17",
+      "char": "砖",
+      "word": "方砖",
+      "pinyin": "fāngzhuān",
+      "origin": "补充语境（非课本词语）",
+      "idx": 160
+    },
+    {
+      "lesson": "17",
+      "char": "筑",
+      "word": "修筑",
+      "pinyin": "? zhù",
+      "origin": "新版教材词语表语境",
+      "idx": 161
+    },
+    {
+      "lesson": "17",
+      "char": "隔",
+      "word": "隔离",
+      "pinyin": "gé lí",
+      "origin": "补充语境（非课本词语）",
+      "idx": 162
+    },
+    {
+      "lesson": "17",
+      "char": "仗",
+      "word": "打仗",
+      "pinyin": "dǎ zhàng",
+      "origin": "新版教材词语表语境",
+      "idx": 163
+    },
+    {
+      "lesson": "17",
+      "char": "扶",
+      "word": "扶起",
+      "pinyin": "fú qǐ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 164
+    },
+    {
+      "lesson": "17",
+      "char": "耗",
+      "word": "耗费",
+      "pinyin": "hào fèi",
+      "origin": "新版教材词语表语境",
+      "idx": 165
+    },
+    {
+      "lesson": "17",
+      "char": "智",
+      "word": "智慧",
+      "pinyin": "zhìhuì",
+      "origin": "新版教材词语表语境",
+      "idx": 166
+    },
+    {
+      "lesson": "17",
+      "char": "慧",
+      "word": "智慧",
+      "pinyin": "zhìhuì",
+      "origin": "新版教材词语表语境",
+      "idx": 167
+    },
+    {
+      "lesson": "18",
+      "char": "绕",
+      "word": "绕字",
+      "pinyin": "rào ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 168
+    },
+    {
+      "lesson": "18",
+      "char": "幅",
+      "word": "一幅",
+      "pinyin": "yì fú",
+      "origin": "补充语境（非课本词语）",
+      "idx": 169
+    },
+    {
+      "lesson": "18",
+      "char": "载",
+      "word": "装载",
+      "pinyin": "zhuāng zài",
+      "origin": "补充语境（非课本词语）",
+      "idx": 170
+    },
+    {
+      "lesson": "18",
+      "char": "耸",
+      "word": "耸立",
+      "pinyin": "sǒng lì",
+      "origin": "新版教材词语表语境",
+      "idx": 171
+    },
+    {
+      "lesson": "18",
+      "char": "腰",
+      "word": "半山腰",
+      "pinyin": "? ? ?",
+      "origin": "新版教材词语表语境",
+      "idx": 172
+    },
+    {
+      "lesson": "18",
+      "char": "煌",
+      "word": "金碧辉煌",
+      "pinyin": "jīn bì huī huáng",
+      "origin": "新版教材词语表语境",
+      "idx": 173
+    },
+    {
+      "lesson": "18",
+      "char": "镜",
+      "word": "镜子",
+      "pinyin": "jìng zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 174
+    },
+    {
+      "lesson": "18",
+      "char": "隐",
+      "word": "隐隐约约",
+      "pinyin": "yǐn yǐn yuē yuē",
+      "origin": "新版教材词语表语境",
+      "idx": 175
+    },
+    {
+      "lesson": "18",
+      "char": "狮",
+      "word": "狮子",
+      "pinyin": "shīzǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 176
+    },
+    {
+      "lesson": "园地3",
+      "char": "萨",
+      "word": "拉萨",
+      "pinyin": "lā sà",
+      "origin": "补充语境（非课本词语）",
+      "idx": 177
+    },
+    {
+      "lesson": "园地3",
+      "char": "昭",
+      "word": "昭字",
+      "pinyin": "? ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 178
+    },
+    {
+      "lesson": "园地3",
+      "char": "陵",
+      "word": "陵寝",
+      "pinyin": "líng qǐn",
+      "origin": "新版教材词语表语境",
+      "idx": 179
+    },
+    {
+      "lesson": "园地3",
+      "char": "寝",
+      "word": "陵寝",
+      "pinyin": "líng qǐn",
+      "origin": "新版教材词语表语境",
+      "idx": 180
+    },
+    {
+      "lesson": "园地3",
+      "char": "堰",
+      "word": "堰字",
+      "pinyin": "? ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 181
+    },
+    {
+      "lesson": "园地3",
+      "char": "尼",
+      "word": "哈尼",
+      "pinyin": "hā ní",
+      "origin": "补充语境（非课本词语）",
+      "idx": 182
+    },
+    {
+      "lesson": "园地3",
+      "char": "绸",
+      "word": "丝绸",
+      "pinyin": "sī chóu",
+      "origin": "新版教材词语表语境",
+      "idx": 183
+    },
+    {
+      "lesson": "园地3",
+      "char": "廊",
+      "word": "廊道",
+      "pinyin": "láng dào",
+      "origin": "补充语境（非课本词语）",
+      "idx": 184
+    },
+    {
+      "lesson": "20",
+      "char": "鹅",
+      "word": "白鹅",
+      "pinyin": "bái é",
+      "origin": "补充语境（非课本词语）",
+      "idx": 185
+    },
+    {
+      "lesson": "20",
+      "char": "骑",
+      "word": "骑马",
+      "pinyin": "qí mǎ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 186
+    },
+    {
+      "lesson": "20",
+      "char": "拳",
+      "word": "拳头",
+      "pinyin": "quán tóu",
+      "origin": "新版教材词语表语境",
+      "idx": 187
+    },
+    {
+      "lesson": "20",
+      "char": "坚",
+      "word": "坚定",
+      "pinyin": "jiān dìng",
+      "origin": "新版教材词语表语境",
+      "idx": 188
+    },
+    {
+      "lesson": "20",
+      "char": "竟",
+      "word": "竟然",
+      "pinyin": "jìng rán",
+      "origin": "补充语境（非课本词语）",
+      "idx": 189
+    },
+    {
+      "lesson": "20",
+      "char": "胸",
+      "word": "胸怀",
+      "pinyin": "xiōng huái",
+      "origin": "补充语境（非课本词语）",
+      "idx": 190
+    },
+    {
+      "lesson": "20",
+      "char": "鞋",
+      "word": "鞋子",
+      "pinyin": "xié zǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 191
+    },
+    {
+      "lesson": "20",
+      "char": "拖",
+      "word": "拖字",
+      "pinyin": "tuō ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 192
+    },
+    {
+      "lesson": "20",
+      "char": "胳",
+      "word": "胳膊",
+      "pinyin": "gē bo",
+      "origin": "新版教材词语表语境",
+      "idx": 193
+    },
+    {
+      "lesson": "20",
+      "char": "膊",
+      "word": "胳膊",
+      "pinyin": "gē bo",
+      "origin": "新版教材词语表语境",
+      "idx": 194
+    },
+    {
+      "lesson": "20",
+      "char": "握",
+      "word": "握住",
+      "pinyin": "wò zhù",
+      "origin": "补充语境（非课本词语）",
+      "idx": 195
+    },
+    {
+      "lesson": "20",
+      "char": "摔",
+      "word": "摔倒",
+      "pinyin": "shuāi dǎo",
+      "origin": "补充语境（非课本词语）",
+      "idx": 196
+    },
+    {
+      "lesson": "21",
+      "char": "表",
+      "word": "表演",
+      "pinyin": "biǎo yǎn",
+      "origin": "新版教材词语表语境",
+      "idx": 197
+    },
+    {
+      "lesson": "21",
+      "char": "演",
+      "word": "表演",
+      "pinyin": "biǎo yǎn",
+      "origin": "新版教材词语表语境",
+      "idx": 198
+    },
+    {
+      "lesson": "21",
+      "char": "俩",
+      "word": "俩字",
+      "pinyin": "liǎ ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 199
+    },
+    {
+      "lesson": "21",
+      "char": "练",
+      "word": "排练",
+      "pinyin": "pái liàn",
+      "origin": "新版教材词语表语境",
+      "idx": 200
+    },
+    {
+      "lesson": "21",
+      "char": "棒",
+      "word": "棒字",
+      "pinyin": "bàng ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 201
+    },
+    {
+      "lesson": "21",
+      "char": "示",
+      "word": "提示",
+      "pinyin": "tí shì",
+      "origin": "新版教材词语表语境",
+      "idx": 202
+    },
+    {
+      "lesson": "21",
+      "char": "技",
+      "word": "演技",
+      "pinyin": "yǎn jì",
+      "origin": "新版教材词语表语境",
+      "idx": 203
+    },
+    {
+      "lesson": "21",
+      "char": "撤",
+      "word": "撤换",
+      "pinyin": "chè huàn",
+      "origin": "新版教材词语表语境",
+      "idx": 204
+    },
+    {
+      "lesson": "21",
+      "char": "推",
+      "word": "推字",
+      "pinyin": "tuī ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 205
+    },
+    {
+      "lesson": "21",
+      "char": "哄",
+      "word": "哄堂大笑",
+      "pinyin": "hōng táng dà xiào",
+      "origin": "新版教材词语表语境",
+      "idx": 206
+    },
+    {
+      "lesson": "21",
+      "char": "堂",
+      "word": "哄堂大笑",
+      "pinyin": "hōng táng dà xiào",
+      "origin": "新版教材词语表语境",
+      "idx": 207
+    },
+    {
+      "lesson": "21",
+      "char": "摘",
+      "word": "摘下",
+      "pinyin": "zhāi xià",
+      "origin": "补充语境（非课本词语）",
+      "idx": 208
+    },
+    {
+      "lesson": "23",
+      "char": "戎",
+      "word": "从戎",
+      "pinyin": "cóng róng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 209
+    },
+    {
+      "lesson": "23",
+      "char": "诸",
+      "word": "诸位",
+      "pinyin": "zhū wèi",
+      "origin": "补充语境（非课本词语）",
+      "idx": 210
+    },
+    {
+      "lesson": "23",
+      "char": "竞",
+      "word": "竞争",
+      "pinyin": "jìng zhēng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 211
+    },
+    {
+      "lesson": "23",
+      "char": "唯",
+      "word": "唯一",
+      "pinyin": "wéi yī",
+      "origin": "补充语境（非课本词语）",
+      "idx": 212
+    },
+    {
+      "lesson": "园地4",
+      "char": "韭",
+      "word": "韭菜",
+      "pinyin": "jiǔ cài",
+      "origin": "新版教材词语表语境",
+      "idx": 213
+    },
+    {
+      "lesson": "园地4",
+      "char": "芹",
+      "word": "芹菜",
+      "pinyin": "qín cài",
+      "origin": "新版教材词语表语境",
+      "idx": 214
+    },
+    {
+      "lesson": "园地4",
+      "char": "椒",
+      "word": "辣椒",
+      "pinyin": "là jiāo",
+      "origin": "新版教材词语表语境",
+      "idx": 215
+    },
+    {
+      "lesson": "园地4",
+      "char": "蒜",
+      "word": "大蒜",
+      "pinyin": "dà suàn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 216
+    },
+    {
+      "lesson": "园地4",
+      "char": "薯",
+      "word": "红薯",
+      "pinyin": "hóng shǔ",
+      "origin": "新版教材词语表语境",
+      "idx": 217
+    },
+    {
+      "lesson": "园地4",
+      "char": "藕",
+      "word": "莲藕",
+      "pinyin": "lián ǒu",
+      "origin": "新版教材词语表语境",
+      "idx": 218
+    },
+    {
+      "lesson": "园地4",
+      "char": "芋",
+      "word": "芋头",
+      "pinyin": "yù tóu",
+      "origin": "新版教材词语表语境",
+      "idx": 219
+    },
+    {
+      "lesson": "园地4",
+      "char": "姜",
+      "word": "生姜",
+      "pinyin": "shēng jiāng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 220
+    },
+    {
+      "lesson": "24",
+      "char": "席",
+      "word": "主席",
+      "pinyin": "zhǔ xí",
+      "origin": "新版教材词语表语境",
+      "idx": 221
+    },
+    {
+      "lesson": "24",
+      "char": "抛",
+      "word": "抛出",
+      "pinyin": "pāo chū",
+      "origin": "补充语境（非课本词语）",
+      "idx": 222
+    },
+    {
+      "lesson": "24",
+      "char": "激",
+      "word": "激动",
+      "pinyin": "jī ?",
+      "origin": "新版教材词语表语境",
+      "idx": 223
+    },
+    {
+      "lesson": "24",
+      "char": "奉",
+      "word": "奉献",
+      "pinyin": "fèng xiàn",
+      "origin": "新版教材词语表语境",
+      "idx": 224
+    },
+    {
+      "lesson": "24",
+      "char": "训",
+      "word": "训练",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表语境",
+      "idx": 225
+    },
+    {
+      "lesson": "24",
+      "char": "亿",
+      "word": "亿字",
+      "pinyin": "yì ?",
+      "origin": "补充语境（非课本词语）",
+      "idx": 226
+    },
+    {
+      "lesson": "24",
+      "char": "勤",
+      "word": "勤劳",
+      "pinyin": "qín láo",
+      "origin": "新版教材词语表语境",
+      "idx": 227
+    },
+    {
+      "lesson": "24",
+      "char": "邀",
+      "word": "邀请",
+      "pinyin": "yāo ?",
+      "origin": "新版教材词语表语境",
+      "idx": 228
+    },
+    {
+      "lesson": "25",
+      "char": "崛",
+      "word": "崛起",
+      "pinyin": "jué qǐ",
+      "origin": "新版教材词语表语境",
+      "idx": 229
+    },
+    {
+      "lesson": "25",
+      "char": "肃",
+      "word": "严肃",
+      "pinyin": "yán sù",
+      "origin": "新版教材词语表语境",
+      "idx": 230
+    },
+    {
+      "lesson": "25",
+      "char": "脆",
+      "word": "干脆",
+      "pinyin": "gàn cuì",
+      "origin": "新版教材词语表语境",
+      "idx": 231
+    },
+    {
+      "lesson": "25",
+      "char": "默",
+      "word": "默默",
+      "pinyin": "mò mò",
+      "origin": "新版教材词语表语境",
+      "idx": 232
+    },
+    {
+      "lesson": "25",
+      "char": "晰",
+      "word": "清晰",
+      "pinyin": "qīng xī",
+      "origin": "新版教材词语表语境",
+      "idx": 233
+    },
+    {
+      "lesson": "25",
+      "char": "离",
+      "word": "离开",
+      "pinyin": "líkāi",
+      "origin": "新版教材词语表语境",
+      "idx": 234
+    },
+    {
+      "lesson": "25",
+      "char": "凡",
+      "word": "非凡",
+      "pinyin": "fēi fán",
+      "origin": "新版教材词语表语境",
+      "idx": 235
+    },
+    {
+      "lesson": "25",
+      "char": "惩",
+      "word": "惩处",
+      "pinyin": "chéngchù",
+      "origin": "新版教材词语表语境",
+      "idx": 236
+    },
+    {
+      "lesson": "25",
+      "char": "斥",
+      "word": "训斥",
+      "pinyin": "xùn chì",
+      "origin": "新版教材词语表语境",
+      "idx": 237
+    },
+    {
+      "lesson": "25",
+      "char": "燃",
+      "word": "燃烧",
+      "pinyin": "rán shāo",
+      "origin": "新版教材词语表语境",
+      "idx": 238
+    },
+    {
+      "lesson": "27",
+      "char": "词",
+      "word": "词语",
+      "pinyin": "cí yǔ",
+      "origin": "补充语境（非课本词语）",
+      "idx": 239
+    },
+    {
+      "lesson": "27",
+      "char": "葡",
+      "word": "葡萄",
+      "pinyin": "pú tao",
+      "origin": "补充语境（非课本词语）",
+      "idx": 240
+    },
+    {
+      "lesson": "27",
+      "char": "萄",
+      "word": "葡萄",
+      "pinyin": "pú tao",
+      "origin": "补充语境（非课本词语）",
+      "idx": 241
+    },
+    {
+      "lesson": "27",
+      "char": "杯",
+      "word": "水杯",
+      "pinyin": "shuǐ bēi",
+      "origin": "补充语境（非课本词语）",
+      "idx": 242
+    },
+    {
+      "lesson": "27",
+      "char": "塞",
+      "word": "塞外",
+      "pinyin": "sài wài",
+      "origin": "补充语境（非课本词语）",
+      "idx": 243
+    },
+    {
+      "lesson": "27",
+      "char": "秦",
+      "word": "秦朝",
+      "pinyin": "qín cháo",
+      "origin": "补充语境（非课本词语）",
+      "idx": 244
+    },
+    {
+      "lesson": "27",
+      "char": "将",
+      "word": "将军",
+      "pinyin": "jiāng jūn",
+      "origin": "补充语境（非课本词语）",
+      "idx": 245
+    },
+    {
+      "lesson": "27",
+      "char": "杰",
+      "word": "杰出",
+      "pinyin": "jié chū",
+      "origin": "补充语境（非课本词语）",
+      "idx": 246
+    },
+    {
+      "lesson": "27",
+      "char": "鬼",
+      "word": "鬼怪",
+      "pinyin": "guǐ guài",
+      "origin": "补充语境（非课本词语）",
+      "idx": 247
+    },
+    {
+      "lesson": "27",
+      "char": "雄",
+      "word": "英雄",
+      "pinyin": "yīng xióng",
+      "origin": "补充语境（非课本词语）",
+      "idx": 248
+    },
+    {
+      "lesson": "27",
+      "char": "项",
+      "word": "项目",
+      "pinyin": "xiàng mù",
+      "origin": "补充语境（非课本词语）",
+      "idx": 249
+    }
+  ],
+  "vocab": [
+    {
+      "lesson": "1",
+      "word": "奇观",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 0
+    },
+    {
+      "lesson": "1",
+      "word": "据说",
+      "pinyin": "jùshuō",
+      "origin": "新版教材词语表·照片",
+      "idx": 1
+    },
+    {
+      "lesson": "1",
+      "word": "人山人海",
+      "pinyin": "rén shān rén hǎi",
+      "origin": "新版教材词语表·照片",
+      "idx": 2
+    },
+    {
+      "lesson": "1",
+      "word": "顿时",
+      "pinyin": "dùn shí",
+      "origin": "新版教材词语表·照片",
+      "idx": 3
+    },
+    {
+      "lesson": "1",
+      "word": "风平浪静",
+      "pinyin": "fēng píng làngjìng",
+      "origin": "新版教材词语表·照片",
+      "idx": 4
+    },
+    {
+      "lesson": "1",
+      "word": "逐渐",
+      "pinyin": "zhú jiàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 5
+    },
+    {
+      "lesson": "1",
+      "word": "齐头并进",
+      "pinyin": "qí tóu bìng jìn",
+      "origin": "新版教材词语表·照片",
+      "idx": 6
+    },
+    {
+      "lesson": "1",
+      "word": "浩浩荡荡",
+      "pinyin": "hàohàodàng dàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 7
+    },
+    {
+      "lesson": "1",
+      "word": "山崩地裂",
+      "pinyin": "shān bēng dì liè",
+      "origin": "新版教材词语表·照片",
+      "idx": 8
+    },
+    {
+      "lesson": "1",
+      "word": "霎时",
+      "pinyin": "shà shí",
+      "origin": "新版教材词语表·照片",
+      "idx": 9
+    },
+    {
+      "lesson": "1",
+      "word": "余波",
+      "pinyin": "yú bō",
+      "origin": "新版教材词语表·照片",
+      "idx": 10
+    },
+    {
+      "lesson": "2",
+      "word": "繁星",
+      "pinyin": "fán xīng",
+      "origin": "新版教材词语表·照片",
+      "idx": 11
+    },
+    {
+      "lesson": "2",
+      "word": "密密麻麻",
+      "pinyin": "mì mì má má",
+      "origin": "新版教材词语表·照片",
+      "idx": 12
+    },
+    {
+      "lesson": "2",
+      "word": "忘记",
+      "pinyin": "wàng jì",
+      "origin": "新版教材词语表·照片",
+      "idx": 13
+    },
+    {
+      "lesson": "2",
+      "word": "谈话",
+      "pinyin": "tán huà",
+      "origin": "新版教材词语表·照片",
+      "idx": 14
+    },
+    {
+      "lesson": "2",
+      "word": "渐渐",
+      "pinyin": "jiàn jiàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 15
+    },
+    {
+      "lesson": "2",
+      "word": "模糊",
+      "pinyin": "mó hú",
+      "origin": "新版教材词语表·照片",
+      "idx": 16
+    },
+    {
+      "lesson": "2",
+      "word": "周围",
+      "pinyin": "zhōu wéi",
+      "origin": "新版教材词语表·照片",
+      "idx": 17
+    },
+    {
+      "lesson": "2",
+      "word": "飞舞",
+      "pinyin": "? wǔ",
+      "origin": "新版教材词语表·照片",
+      "idx": 18
+    },
+    {
+      "lesson": "2",
+      "word": "柔和",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 19
+    },
+    {
+      "lesson": "2",
+      "word": "梦幻",
+      "pinyin": "mèng huàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 20
+    },
+    {
+      "lesson": "2",
+      "word": "怀抱",
+      "pinyin": "huái bào",
+      "origin": "新版教材词语表·照片",
+      "idx": 21
+    },
+    {
+      "lesson": "2",
+      "word": "沉睡",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 22
+    },
+    {
+      "lesson": "4",
+      "word": "暖洋洋",
+      "pinyin": "nuǎn yáng yáng",
+      "origin": "新版教材词语表·照片",
+      "idx": 23
+    },
+    {
+      "lesson": "4",
+      "word": "舒适",
+      "pinyin": "shū shì",
+      "origin": "新版教材词语表·照片",
+      "idx": 24
+    },
+    {
+      "lesson": "4",
+      "word": "揭晓",
+      "pinyin": "jiēxiǎo",
+      "origin": "新版教材词语表·照片",
+      "idx": 25
+    },
+    {
+      "lesson": "4",
+      "word": "身份",
+      "pinyin": "shēn fèn",
+      "origin": "新版教材词语表·照片",
+      "idx": 26
+    },
+    {
+      "lesson": "4",
+      "word": "暖和",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 27
+    },
+    {
+      "lesson": "4",
+      "word": "的确",
+      "pinyin": "dí què",
+      "origin": "新版教材词语表·照片",
+      "idx": 28
+    },
+    {
+      "lesson": "4",
+      "word": "曾经",
+      "pinyin": "céngjīng",
+      "origin": "新版教材词语表·照片",
+      "idx": 29
+    },
+    {
+      "lesson": "4",
+      "word": "打滚",
+      "pinyin": "dǎ gǔn",
+      "origin": "新版教材词语表·照片",
+      "idx": 30
+    },
+    {
+      "lesson": "4",
+      "word": "水沟",
+      "pinyin": "shuǐ gōu",
+      "origin": "新版教材词语表·照片",
+      "idx": 31
+    },
+    {
+      "lesson": "4",
+      "word": "注视",
+      "pinyin": "zhùshì",
+      "origin": "新版教材词语表·照片",
+      "idx": 32
+    },
+    {
+      "lesson": "5",
+      "word": "蚊子",
+      "pinyin": "wén zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 33
+    },
+    {
+      "lesson": "5",
+      "word": "即使",
+      "pinyin": "jí ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 34
+    },
+    {
+      "lesson": "5",
+      "word": "问题",
+      "pinyin": "wèn tí",
+      "origin": "新版教材词语表·照片",
+      "idx": 35
+    },
+    {
+      "lesson": "5",
+      "word": "绳子",
+      "pinyin": "shéng zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 36
+    },
+    {
+      "lesson": "5",
+      "word": "苍蝇",
+      "pinyin": "cāng yíng",
+      "origin": "新版教材词语表·照片",
+      "idx": 37
+    },
+    {
+      "lesson": "5",
+      "word": "证明",
+      "pinyin": "zhèng míng",
+      "origin": "新版教材词语表·照片",
+      "idx": 38
+    },
+    {
+      "lesson": "5",
+      "word": "相互",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 39
+    },
+    {
+      "lesson": "5",
+      "word": "配合",
+      "pinyin": "pèi hé",
+      "origin": "新版教材词语表·照片",
+      "idx": 40
+    },
+    {
+      "lesson": "5",
+      "word": "研究",
+      "pinyin": "yán jiū",
+      "origin": "新版教材词语表·照片",
+      "idx": 41
+    },
+    {
+      "lesson": "5",
+      "word": "类似",
+      "pinyin": "lèisì",
+      "origin": "新版教材词语表·照片",
+      "idx": 42
+    },
+    {
+      "lesson": "5",
+      "word": "能够",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 43
+    },
+    {
+      "lesson": "6",
+      "word": "帽子",
+      "pinyin": "mào zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 44
+    },
+    {
+      "lesson": "6",
+      "word": "脑袋",
+      "pinyin": "nǎo dai",
+      "origin": "新版教材词语表·照片",
+      "idx": 45
+    },
+    {
+      "lesson": "6",
+      "word": "舒服",
+      "pinyin": "shū fú",
+      "origin": "新版教材词语表·照片",
+      "idx": 46
+    },
+    {
+      "lesson": "6",
+      "word": "假如",
+      "pinyin": "jiǎ rú",
+      "origin": "新版教材词语表·照片",
+      "idx": 47
+    },
+    {
+      "lesson": "6",
+      "word": "设法",
+      "pinyin": "shè fǎ",
+      "origin": "新版教材词语表·照片",
+      "idx": 48
+    },
+    {
+      "lesson": "6",
+      "word": "懂事",
+      "pinyin": "dǒng shì",
+      "origin": "新版教材词语表·照片",
+      "idx": 49
+    },
+    {
+      "lesson": "6",
+      "word": "一溜烟",
+      "pinyin": "? liū ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 50
+    },
+    {
+      "lesson": "6",
+      "word": "各式各样",
+      "pinyin": "gè shì gè yàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 51
+    },
+    {
+      "lesson": "6",
+      "word": "摆放",
+      "pinyin": "bǎi fàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 52
+    },
+    {
+      "lesson": "6",
+      "word": "玻璃",
+      "pinyin": "bō li",
+      "origin": "新版教材词语表·照片",
+      "idx": 53
+    },
+    {
+      "lesson": "园地1",
+      "word": "提纲",
+      "pinyin": "tí gāng",
+      "origin": "新版教材词语表·照片",
+      "idx": 54
+    },
+    {
+      "lesson": "园地1",
+      "word": "生锈",
+      "pinyin": "shēng xiù",
+      "origin": "新版教材词语表·照片",
+      "idx": 55
+    },
+    {
+      "lesson": "园地1",
+      "word": "泡沫",
+      "pinyin": "pào mò",
+      "origin": "新版教材词语表·照片",
+      "idx": 56
+    },
+    {
+      "lesson": "园地1",
+      "word": "综合",
+      "pinyin": "zōnghé",
+      "origin": "新版教材词语表·照片",
+      "idx": 57
+    },
+    {
+      "lesson": "园地1",
+      "word": "氧气",
+      "pinyin": "yǎng qì",
+      "origin": "新版教材词语表·照片",
+      "idx": 58
+    },
+    {
+      "lesson": "园地1",
+      "word": "结账",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 59
+    },
+    {
+      "lesson": "园地1",
+      "word": "矿物",
+      "pinyin": "kuàngwù",
+      "origin": "新版教材词语表·照片",
+      "idx": 60
+    },
+    {
+      "lesson": "园地1",
+      "word": "俱乐部",
+      "pinyin": "jù lè bù",
+      "origin": "新版教材词语表·照片",
+      "idx": 61
+    },
+    {
+      "lesson": "9",
+      "word": "爬山虎",
+      "pinyin": "páshān hǔ",
+      "origin": "新版教材词语表·照片",
+      "idx": 62
+    },
+    {
+      "lesson": "9",
+      "word": "操场",
+      "pinyin": "cāo chǎng",
+      "origin": "新版教材词语表·照片",
+      "idx": 63
+    },
+    {
+      "lesson": "9",
+      "word": "嫩绿",
+      "pinyin": "nèn ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 64
+    },
+    {
+      "lesson": "9",
+      "word": "新鲜",
+      "pinyin": "xīn xiān",
+      "origin": "新版教材词语表·照片",
+      "idx": 65
+    },
+    {
+      "lesson": "9",
+      "word": "均匀",
+      "pinyin": "jūn yún",
+      "origin": "新版教材词语表·照片",
+      "idx": 66
+    },
+    {
+      "lesson": "9",
+      "word": "空隙",
+      "pinyin": "kōngxì",
+      "origin": "新版教材词语表·照片",
+      "idx": 67
+    },
+    {
+      "lesson": "9",
+      "word": "叶柄",
+      "pinyin": "yè bǐng",
+      "origin": "新版教材词语表·照片",
+      "idx": 68
+    },
+    {
+      "lesson": "9",
+      "word": "触角",
+      "pinyin": "chù jiǎo",
+      "origin": "新版教材词语表·照片",
+      "idx": 69
+    },
+    {
+      "lesson": "9",
+      "word": "弯曲",
+      "pinyin": "wān qū",
+      "origin": "新版教材词语表·照片",
+      "idx": 70
+    },
+    {
+      "lesson": "9",
+      "word": "痕迹",
+      "pinyin": "hén jì",
+      "origin": "新版教材词语表·照片",
+      "idx": 71
+    },
+    {
+      "lesson": "9",
+      "word": "瞧不起",
+      "pinyin": "qiáo bù qǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 72
+    },
+    {
+      "lesson": "9",
+      "word": "牢固",
+      "pinyin": "láo gù",
+      "origin": "新版教材词语表·照片",
+      "idx": 73
+    },
+    {
+      "lesson": "10",
+      "word": "住宅",
+      "pinyin": "zhù zhái",
+      "origin": "新版教材词语表·照片",
+      "idx": 74
+    },
+    {
+      "lesson": "10",
+      "word": "选择",
+      "pinyin": "xuǎn zé",
+      "origin": "新版教材词语表·照片",
+      "idx": 75
+    },
+    {
+      "lesson": "10",
+      "word": "住址",
+      "pinyin": "zhù zhǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 76
+    },
+    {
+      "lesson": "10",
+      "word": "大厅",
+      "pinyin": "dà tīng",
+      "origin": "新版教材词语表·照片",
+      "idx": 77
+    },
+    {
+      "lesson": "10",
+      "word": "柔弱",
+      "pinyin": "róu ruò",
+      "origin": "新版教材词语表·照片",
+      "idx": 78
+    },
+    {
+      "lesson": "10",
+      "word": "平坦",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 79
+    },
+    {
+      "lesson": "10",
+      "word": "光滑",
+      "pinyin": "guāng huá",
+      "origin": "新版教材词语表·照片",
+      "idx": 80
+    },
+    {
+      "lesson": "10",
+      "word": "修理",
+      "pinyin": "xiū lǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 81
+    },
+    {
+      "lesson": "10",
+      "word": "重要",
+      "pinyin": "zhòng ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 82
+    },
+    {
+      "lesson": "10",
+      "word": "增长",
+      "pinyin": "zēng zhǎng",
+      "origin": "新版教材词语表·照片",
+      "idx": 83
+    },
+    {
+      "lesson": "11",
+      "word": "宇宙",
+      "pinyin": "yǔ zhòu",
+      "origin": "新版教材词语表·照片",
+      "idx": 84
+    },
+    {
+      "lesson": "11",
+      "word": "黑乎乎",
+      "pinyin": "hēi hū hū",
+      "origin": "新版教材词语表·照片",
+      "idx": 85
+    },
+    {
+      "lesson": "11",
+      "word": "翻身",
+      "pinyin": "fānshēn",
+      "origin": "新版教材词语表·照片",
+      "idx": 86
+    },
+    {
+      "lesson": "11",
+      "word": "下降",
+      "pinyin": "xià jiàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 87
+    },
+    {
+      "lesson": "11",
+      "word": "精疲力竭",
+      "pinyin": "jīngpí lì jié",
+      "origin": "新版教材词语表·照片",
+      "idx": 88
+    },
+    {
+      "lesson": "11",
+      "word": "飘动",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 89
+    },
+    {
+      "lesson": "11",
+      "word": "照耀",
+      "pinyin": "zhào yào",
+      "origin": "新版教材词语表·照片",
+      "idx": 90
+    },
+    {
+      "lesson": "11",
+      "word": "四肢",
+      "pinyin": "sì zhī",
+      "origin": "新版教材词语表·照片",
+      "idx": 91
+    },
+    {
+      "lesson": "11",
+      "word": "奔流不息",
+      "pinyin": "bēn liú bù xī",
+      "origin": "新版教材词语表·照片",
+      "idx": 92
+    },
+    {
+      "lesson": "11",
+      "word": "茂盛",
+      "pinyin": "mào shèng",
+      "origin": "新版教材词语表·照片",
+      "idx": 93
+    },
+    {
+      "lesson": "11",
+      "word": "整个",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 94
+    },
+    {
+      "lesson": "13",
+      "word": "喷射",
+      "pinyin": "pēn shè",
+      "origin": "新版教材词语表·照片",
+      "idx": 95
+    },
+    {
+      "lesson": "13",
+      "word": "气急败坏",
+      "pinyin": "? ? bài ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 96
+    },
+    {
+      "lesson": "13",
+      "word": "严厉",
+      "pinyin": "yán lì",
+      "origin": "新版教材词语表·照片",
+      "idx": 97
+    },
+    {
+      "lesson": "13",
+      "word": "立即",
+      "pinyin": "lì jí",
+      "origin": "新版教材词语表·照片",
+      "idx": 98
+    },
+    {
+      "lesson": "13",
+      "word": "执行",
+      "pinyin": "zhí xíng",
+      "origin": "新版教材词语表·照片",
+      "idx": 99
+    },
+    {
+      "lesson": "13",
+      "word": "敬佩",
+      "pinyin": "jìngpèi",
+      "origin": "新版教材词语表·照片",
+      "idx": 100
+    },
+    {
+      "lesson": "13",
+      "word": "坚定",
+      "pinyin": "jiān dìng",
+      "origin": "新版教材词语表·照片",
+      "idx": 101
+    },
+    {
+      "lesson": "13",
+      "word": "忍受",
+      "pinyin": "rěn shòu",
+      "origin": "新版教材词语表·照片",
+      "idx": 102
+    },
+    {
+      "lesson": "13",
+      "word": "遭受",
+      "pinyin": "zāo shòu",
+      "origin": "新版教材词语表·照片",
+      "idx": 103
+    },
+    {
+      "lesson": "13",
+      "word": "尽管",
+      "pinyin": "jǐn guǎn",
+      "origin": "新版教材词语表·照片",
+      "idx": 104
+    },
+    {
+      "lesson": "13",
+      "word": "屈服",
+      "pinyin": "qū fú",
+      "origin": "新版教材词语表·照片",
+      "idx": 105
+    },
+    {
+      "lesson": "13",
+      "word": "肝脏",
+      "pinyin": "gān zàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 106
+    },
+    {
+      "lesson": "13",
+      "word": "获得",
+      "pinyin": "huò ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 107
+    },
+    {
+      "lesson": "园地2",
+      "word": "花卉",
+      "pinyin": "huā huì",
+      "origin": "新版教材词语表·照片",
+      "idx": 108
+    },
+    {
+      "lesson": "园地2",
+      "word": "玫瑰",
+      "pinyin": "méiguī",
+      "origin": "新版教材词语表·照片",
+      "idx": 109
+    },
+    {
+      "lesson": "园地2",
+      "word": "牡丹",
+      "pinyin": "mǔ dān",
+      "origin": "新版教材词语表·照片",
+      "idx": 110
+    },
+    {
+      "lesson": "园地2",
+      "word": "花蕾",
+      "pinyin": "huā lěi",
+      "origin": "新版教材词语表·照片",
+      "idx": 111
+    },
+    {
+      "lesson": "园地2",
+      "word": "茉莉",
+      "pinyin": "mò lì",
+      "origin": "新版教材词语表·照片",
+      "idx": 112
+    },
+    {
+      "lesson": "园地2",
+      "word": "海棠",
+      "pinyin": "hǎi táng",
+      "origin": "新版教材词语表·照片",
+      "idx": 113
+    },
+    {
+      "lesson": "15",
+      "word": "麻雀",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 114
+    },
+    {
+      "lesson": "15",
+      "word": "悄悄",
+      "pinyin": "qiāo qiāo",
+      "origin": "新版教材词语表·照片",
+      "idx": 115
+    },
+    {
+      "lesson": "15",
+      "word": "猛烈",
+      "pinyin": "měng liè",
+      "origin": "新版教材词语表·照片",
+      "idx": 116
+    },
+    {
+      "lesson": "15",
+      "word": "无可奈何",
+      "pinyin": "wú kě nài hé",
+      "origin": "新版教材词语表·照片",
+      "idx": 117
+    },
+    {
+      "lesson": "15",
+      "word": "身躯",
+      "pinyin": "shēn qū",
+      "origin": "新版教材词语表·照片",
+      "idx": 118
+    },
+    {
+      "lesson": "15",
+      "word": "掩护",
+      "pinyin": "yǎnhù",
+      "origin": "新版教材词语表·照片",
+      "idx": 119
+    },
+    {
+      "lesson": "15",
+      "word": "紧张",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 120
+    },
+    {
+      "lesson": "15",
+      "word": "浑身",
+      "pinyin": "hún shēn",
+      "origin": "新版教材词语表·照片",
+      "idx": 121
+    },
+    {
+      "lesson": "15",
+      "word": "牺牲",
+      "pinyin": "xī shēng",
+      "origin": "新版教材词语表·照片",
+      "idx": 122
+    },
+    {
+      "lesson": "15",
+      "word": "庞大",
+      "pinyin": "páng dà",
+      "origin": "新版教材词语表·照片",
+      "idx": 123
+    },
+    {
+      "lesson": "15",
+      "word": "强大",
+      "pinyin": "qiáng dà",
+      "origin": "新版教材词语表·照片",
+      "idx": 124
+    },
+    {
+      "lesson": "15",
+      "word": "力量",
+      "pinyin": "lì liàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 125
+    },
+    {
+      "lesson": "15",
+      "word": "勇气",
+      "pinyin": "yǒng qì",
+      "origin": "新版教材词语表·照片",
+      "idx": 126
+    },
+    {
+      "lesson": "16",
+      "word": "石级",
+      "pinyin": "shí jí",
+      "origin": "新版教材词语表·照片",
+      "idx": 127
+    },
+    {
+      "lesson": "16",
+      "word": "发颤",
+      "pinyin": "fā chàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 128
+    },
+    {
+      "lesson": "16",
+      "word": "年纪",
+      "pinyin": "nián jì",
+      "origin": "新版教材词语表·照片",
+      "idx": 129
+    },
+    {
+      "lesson": "16",
+      "word": "奋力",
+      "pinyin": "fèn lì",
+      "origin": "新版教材词语表·照片",
+      "idx": 130
+    },
+    {
+      "lesson": "16",
+      "word": "猴子",
+      "pinyin": "hóu zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 131
+    },
+    {
+      "lesson": "16",
+      "word": "纪念",
+      "pinyin": "jìniàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 132
+    },
+    {
+      "lesson": "16",
+      "word": "笑呵呵",
+      "pinyin": "xiào hē hē",
+      "origin": "新版教材词语表·照片",
+      "idx": 133
+    },
+    {
+      "lesson": "16",
+      "word": "鼓舞",
+      "pinyin": "? wǔ",
+      "origin": "新版教材词语表·照片",
+      "idx": 134
+    },
+    {
+      "lesson": "17",
+      "word": "崇山峻岭",
+      "pinyin": "chóng shān jùn lǐng",
+      "origin": "新版教材词语表·照片",
+      "idx": 135
+    },
+    {
+      "lesson": "17",
+      "word": "盘旋",
+      "pinyin": "pán xuán",
+      "origin": "新版教材词语表·照片",
+      "idx": 136
+    },
+    {
+      "lesson": "17",
+      "word": "扩建",
+      "pinyin": "kuòjiàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 137
+    },
+    {
+      "lesson": "17",
+      "word": "修筑",
+      "pinyin": "? zhù",
+      "origin": "新版教材词语表·照片",
+      "idx": 138
+    },
+    {
+      "lesson": "17",
+      "word": "平整",
+      "pinyin": "píng zhěng",
+      "origin": "新版教材词语表·照片",
+      "idx": 139
+    },
+    {
+      "lesson": "17",
+      "word": "打仗",
+      "pinyin": "dǎ zhàng",
+      "origin": "新版教材词语表·照片",
+      "idx": 140
+    },
+    {
+      "lesson": "17",
+      "word": "自然",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 141
+    },
+    {
+      "lesson": "17",
+      "word": "当地",
+      "pinyin": "dāng dì",
+      "origin": "新版教材词语表·照片",
+      "idx": 142
+    },
+    {
+      "lesson": "17",
+      "word": "耗费",
+      "pinyin": "hào fèi",
+      "origin": "新版教材词语表·照片",
+      "idx": 143
+    },
+    {
+      "lesson": "17",
+      "word": "大量",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 144
+    },
+    {
+      "lesson": "17",
+      "word": "智慧",
+      "pinyin": "zhìhuì",
+      "origin": "新版教材词语表·照片",
+      "idx": 145
+    },
+    {
+      "lesson": "17",
+      "word": "工程",
+      "pinyin": "gōng chéng",
+      "origin": "新版教材词语表·照片",
+      "idx": 146
+    },
+    {
+      "lesson": "17",
+      "word": "奇迹",
+      "pinyin": "qí jì",
+      "origin": "新版教材词语表·照片",
+      "idx": 147
+    },
+    {
+      "lesson": "18",
+      "word": "柱子",
+      "pinyin": "zhù zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 148
+    },
+    {
+      "lesson": "18",
+      "word": "栏杆",
+      "pinyin": "lán gān",
+      "origin": "新版教材词语表·照片",
+      "idx": 149
+    },
+    {
+      "lesson": "18",
+      "word": "人物",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 150
+    },
+    {
+      "lesson": "18",
+      "word": "神清气爽",
+      "pinyin": "shén qīng qì shuǎng",
+      "origin": "新版教材词语表·照片",
+      "idx": 151
+    },
+    {
+      "lesson": "18",
+      "word": "建筑",
+      "pinyin": "? zhù",
+      "origin": "新版教材词语表·照片",
+      "idx": 152
+    },
+    {
+      "lesson": "18",
+      "word": "耸立",
+      "pinyin": "sǒng lì",
+      "origin": "新版教材词语表·照片",
+      "idx": 153
+    },
+    {
+      "lesson": "18",
+      "word": "半山腰",
+      "pinyin": "? ? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 154
+    },
+    {
+      "lesson": "18",
+      "word": "金碧辉煌",
+      "pinyin": "jīn bì huī huáng",
+      "origin": "新版教材词语表·照片",
+      "idx": 155
+    },
+    {
+      "lesson": "18",
+      "word": "镜子",
+      "pinyin": "jìng zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 156
+    },
+    {
+      "lesson": "18",
+      "word": "隐隐约约",
+      "pinyin": "yǐn yǐn yuē yuē",
+      "origin": "新版教材词语表·照片",
+      "idx": 157
+    },
+    {
+      "lesson": "18",
+      "word": "游人",
+      "pinyin": "yóurén",
+      "origin": "新版教材词语表·照片",
+      "idx": 158
+    },
+    {
+      "lesson": "18",
+      "word": "狮子",
+      "pinyin": "shīzǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 159
+    },
+    {
+      "lesson": "18",
+      "word": "姿态",
+      "pinyin": "zī tài",
+      "origin": "新版教材词语表·照片",
+      "idx": 160
+    },
+    {
+      "lesson": "园地3",
+      "word": "陵寝",
+      "pinyin": "líng qǐn",
+      "origin": "新版教材词语表·照片",
+      "idx": 161
+    },
+    {
+      "lesson": "园地3",
+      "word": "景观",
+      "pinyin": "jǐngguān",
+      "origin": "新版教材词语表·照片",
+      "idx": 162
+    },
+    {
+      "lesson": "园地3",
+      "word": "丝绸",
+      "pinyin": "sī chóu",
+      "origin": "新版教材词语表·照片",
+      "idx": 163
+    },
+    {
+      "lesson": "20",
+      "word": "虽然",
+      "pinyin": "suī rán",
+      "origin": "新版教材词语表·照片",
+      "idx": 164
+    },
+    {
+      "lesson": "20",
+      "word": "拳头",
+      "pinyin": "quán tóu",
+      "origin": "新版教材词语表·照片",
+      "idx": 165
+    },
+    {
+      "lesson": "20",
+      "word": "故意",
+      "pinyin": "gù yì",
+      "origin": "新版教材词语表·照片",
+      "idx": 166
+    },
+    {
+      "lesson": "20",
+      "word": "神气",
+      "pinyin": "shén qì",
+      "origin": "新版教材词语表·照片",
+      "idx": 167
+    },
+    {
+      "lesson": "20",
+      "word": "忙乱",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 168
+    },
+    {
+      "lesson": "20",
+      "word": "鞋子",
+      "pinyin": "xié zǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 169
+    },
+    {
+      "lesson": "20",
+      "word": "助威",
+      "pinyin": "zhù wēi",
+      "origin": "新版教材词语表·照片",
+      "idx": 170
+    },
+    {
+      "lesson": "20",
+      "word": "胳膊",
+      "pinyin": "gē bo",
+      "origin": "新版教材词语表·照片",
+      "idx": 171
+    },
+    {
+      "lesson": "20",
+      "word": "纷纷",
+      "pinyin": "fēn fēn",
+      "origin": "新版教材词语表·照片",
+      "idx": 172
+    },
+    {
+      "lesson": "20",
+      "word": "可笑",
+      "pinyin": "kě xiào",
+      "origin": "新版教材词语表·照片",
+      "idx": 173
+    },
+    {
+      "lesson": "20",
+      "word": "无缘无故",
+      "pinyin": "wú yuán wú gù",
+      "origin": "新版教材词语表·照片",
+      "idx": 174
+    },
+    {
+      "lesson": "21",
+      "word": "文艺",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 175
+    },
+    {
+      "lesson": "21",
+      "word": "表演",
+      "pinyin": "biǎo yǎn",
+      "origin": "新版教材词语表·照片",
+      "idx": 176
+    },
+    {
+      "lesson": "21",
+      "word": "角色",
+      "pinyin": "jué sè",
+      "origin": "新版教材词语表·照片",
+      "idx": 177
+    },
+    {
+      "lesson": "21",
+      "word": "排练",
+      "pinyin": "pái liàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 178
+    },
+    {
+      "lesson": "21",
+      "word": "主意",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 179
+    },
+    {
+      "lesson": "21",
+      "word": "通情达理",
+      "pinyin": "tōng qíng dá lǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 180
+    },
+    {
+      "lesson": "21",
+      "word": "充分",
+      "pinyin": "chōng fēn",
+      "origin": "新版教材词语表·照片",
+      "idx": 181
+    },
+    {
+      "lesson": "21",
+      "word": "提示",
+      "pinyin": "tí shì",
+      "origin": "新版教材词语表·照片",
+      "idx": 182
+    },
+    {
+      "lesson": "21",
+      "word": "演技",
+      "pinyin": "yǎn jì",
+      "origin": "新版教材词语表·照片",
+      "idx": 183
+    },
+    {
+      "lesson": "21",
+      "word": "撤换",
+      "pinyin": "chè huàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 184
+    },
+    {
+      "lesson": "21",
+      "word": "等候",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 185
+    },
+    {
+      "lesson": "21",
+      "word": "哄堂大笑",
+      "pinyin": "hōng táng dà xiào",
+      "origin": "新版教材词语表·照片",
+      "idx": 186
+    },
+    {
+      "lesson": "21",
+      "word": "垂头丧气",
+      "pinyin": "chuí tóu sàng qì",
+      "origin": "新版教材词语表·照片",
+      "idx": 187
+    },
+    {
+      "lesson": "园地4",
+      "word": "韭菜",
+      "pinyin": "jiǔ cài",
+      "origin": "新版教材词语表·照片",
+      "idx": 188
+    },
+    {
+      "lesson": "园地4",
+      "word": "芹菜",
+      "pinyin": "qín cài",
+      "origin": "新版教材词语表·照片",
+      "idx": 189
+    },
+    {
+      "lesson": "园地4",
+      "word": "辣椒",
+      "pinyin": "là jiāo",
+      "origin": "新版教材词语表·照片",
+      "idx": 190
+    },
+    {
+      "lesson": "园地4",
+      "word": "红薯",
+      "pinyin": "hóng shǔ",
+      "origin": "新版教材词语表·照片",
+      "idx": 191
+    },
+    {
+      "lesson": "园地4",
+      "word": "莲藕",
+      "pinyin": "lián ǒu",
+      "origin": "新版教材词语表·照片",
+      "idx": 192
+    },
+    {
+      "lesson": "园地4",
+      "word": "芋头",
+      "pinyin": "yù tóu",
+      "origin": "新版教材词语表·照片",
+      "idx": 193
+    },
+    {
+      "lesson": "24",
+      "word": "主席",
+      "pinyin": "zhǔ xí",
+      "origin": "新版教材词语表·照片",
+      "idx": 194
+    },
+    {
+      "lesson": "24",
+      "word": "举行",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 195
+    },
+    {
+      "lesson": "24",
+      "word": "心情",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 196
+    },
+    {
+      "lesson": "24",
+      "word": "补充",
+      "pinyin": "bǔ chōng",
+      "origin": "新版教材词语表·照片",
+      "idx": 197
+    },
+    {
+      "lesson": "24",
+      "word": "激动",
+      "pinyin": "jī ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 198
+    },
+    {
+      "lesson": "24",
+      "word": "状态",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 199
+    },
+    {
+      "lesson": "24",
+      "word": "奉献",
+      "pinyin": "fèng xiàn",
+      "origin": "新版教材词语表·照片",
+      "idx": 200
+    },
+    {
+      "lesson": "24",
+      "word": "运动员",
+      "pinyin": "? ? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 201
+    },
+    {
+      "lesson": "24",
+      "word": "训练",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 202
+    },
+    {
+      "lesson": "24",
+      "word": "建设",
+      "pinyin": "jiàn shè",
+      "origin": "新版教材词语表·照片",
+      "idx": 203
+    },
+    {
+      "lesson": "24",
+      "word": "勤劳",
+      "pinyin": "qín láo",
+      "origin": "新版教材词语表·照片",
+      "idx": 204
+    },
+    {
+      "lesson": "24",
+      "word": "邀请",
+      "pinyin": "yāo ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 205
+    },
+    {
+      "lesson": "25",
+      "word": "崛起",
+      "pinyin": "jué qǐ",
+      "origin": "新版教材词语表·照片",
+      "idx": 206
+    },
+    {
+      "lesson": "25",
+      "word": "严肃",
+      "pinyin": "yán sù",
+      "origin": "新版教材词语表·照片",
+      "idx": 207
+    },
+    {
+      "lesson": "25",
+      "word": "干脆",
+      "pinyin": "gàn cuì",
+      "origin": "新版教材词语表·照片",
+      "idx": 208
+    },
+    {
+      "lesson": "25",
+      "word": "默默",
+      "pinyin": "mò mò",
+      "origin": "新版教材词语表·照片",
+      "idx": 209
+    },
+    {
+      "lesson": "25",
+      "word": "若有所思",
+      "pinyin": "ruò yǒu suǒ sī",
+      "origin": "新版教材词语表·照片",
+      "idx": 210
+    },
+    {
+      "lesson": "25",
+      "word": "清晰",
+      "pinyin": "qīng xī",
+      "origin": "新版教材词语表·照片",
+      "idx": 211
+    },
+    {
+      "lesson": "25",
+      "word": "离开",
+      "pinyin": "líkāi",
+      "origin": "新版教材词语表·照片",
+      "idx": 212
+    },
+    {
+      "lesson": "25",
+      "word": "随便",
+      "pinyin": "suí ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 213
+    },
+    {
+      "lesson": "25",
+      "word": "忘怀",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 214
+    },
+    {
+      "lesson": "25",
+      "word": "非凡",
+      "pinyin": "fēi fán",
+      "origin": "新版教材词语表·照片",
+      "idx": 215
+    },
+    {
+      "lesson": "25",
+      "word": "惩处",
+      "pinyin": "chéngchù",
+      "origin": "新版教材词语表·照片",
+      "idx": 216
+    },
+    {
+      "lesson": "25",
+      "word": "训斥",
+      "pinyin": "xùn chì",
+      "origin": "新版教材词语表·照片",
+      "idx": 217
+    },
+    {
+      "lesson": "25",
+      "word": "燃烧",
+      "pinyin": "rán shāo",
+      "origin": "新版教材词语表·照片",
+      "idx": 218
+    },
+    {
+      "lesson": "25",
+      "word": "响亮",
+      "pinyin": "? ?",
+      "origin": "新版教材词语表·照片",
+      "idx": 219
+    }
+  ],
+  "reading": [
+    {
+      "lesson": "1",
+      "char": "盐",
+      "pinyin": "yán",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 0
+    },
+    {
+      "lesson": "1",
+      "char": "薄",
+      "pinyin": "bó",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 1
+    },
+    {
+      "lesson": "1",
+      "char": "隆",
+      "pinyin": "lóng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 2
+    },
+    {
+      "lesson": "1",
+      "char": "鼎",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 3
+    },
+    {
+      "lesson": "1",
+      "char": "沸",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 4
+    },
+    {
+      "lesson": "1",
+      "char": "浩",
+      "pinyin": "hào",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 5
+    },
+    {
+      "lesson": "1",
+      "char": "崩",
+      "pinyin": "bēng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 6
+    },
+    {
+      "lesson": "1",
+      "char": "霎",
+      "pinyin": "shà",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 7
+    },
+    {
+      "lesson": "1",
+      "char": "余",
+      "pinyin": "yú",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 8
+    },
+    {
+      "lesson": "1",
+      "char": "漫",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 9
+    },
+    {
+      "lesson": "1",
+      "char": "吼",
+      "pinyin": "hǒu",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 10
+    },
+    {
+      "lesson": "2",
+      "char": "昧",
+      "pinyin": "mèi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 11
+    },
+    {
+      "lesson": "2",
+      "char": "坠",
+      "pinyin": "zhuì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 12
+    },
+    {
+      "lesson": "2",
+      "char": "萤",
+      "pinyin": "yíng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 13
+    },
+    {
+      "lesson": "3",
+      "char": "巢",
+      "pinyin": "cháo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 14
+    },
+    {
+      "lesson": "3",
+      "char": "苇",
+      "pinyin": "wěi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 15
+    },
+    {
+      "lesson": "3",
+      "char": "瞬",
+      "pinyin": "shùn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 16
+    },
+    {
+      "lesson": "3",
+      "char": "穗",
+      "pinyin": "suì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 17
+    },
+    {
+      "lesson": "3",
+      "char": "罗",
+      "pinyin": "luó",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 18
+    },
+    {
+      "lesson": "3",
+      "char": "霸",
+      "pinyin": "bà",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 19
+    },
+    {
+      "lesson": "4",
+      "char": "豌",
+      "pinyin": "wān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 20
+    },
+    {
+      "lesson": "4",
+      "char": "僵",
+      "pinyin": "jiāng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 21
+    },
+    {
+      "lesson": "4",
+      "char": "预",
+      "pinyin": "yù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 22
+    },
+    {
+      "lesson": "4",
+      "char": "揭",
+      "pinyin": "jiē",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 23
+    },
+    {
+      "lesson": "4",
+      "char": "囚",
+      "pinyin": "qiú",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 24
+    },
+    {
+      "lesson": "4",
+      "char": "劈",
+      "pinyin": "pī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 25
+    },
+    {
+      "lesson": "4",
+      "char": "框",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 26
+    },
+    {
+      "lesson": "4",
+      "char": "吻",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 27
+    },
+    {
+      "lesson": "4",
+      "char": "脏",
+      "pinyin": "zàng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 28
+    },
+    {
+      "lesson": "4",
+      "char": "溢",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 29
+    },
+    {
+      "lesson": "4",
+      "char": "健",
+      "pinyin": "jiàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 30
+    },
+    {
+      "lesson": "4",
+      "char": "康",
+      "pinyin": "kāng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 31
+    },
+    {
+      "lesson": "5",
+      "char": "蝙",
+      "pinyin": "biān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 32
+    },
+    {
+      "lesson": "5",
+      "char": "蝠",
+      "pinyin": "fú",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 33
+    },
+    {
+      "lesson": "5",
+      "char": "蛾",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 34
+    },
+    {
+      "lesson": "5",
+      "char": "避",
+      "pinyin": "bì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 35
+    },
+    {
+      "lesson": "5",
+      "char": "锐",
+      "pinyin": "ruì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 36
+    },
+    {
+      "lesson": "5",
+      "char": "蝇",
+      "pinyin": "yíng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 37
+    },
+    {
+      "lesson": "5",
+      "char": "障",
+      "pinyin": "zhàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 38
+    },
+    {
+      "lesson": "5",
+      "char": "碍",
+      "pinyin": "ài",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 39
+    },
+    {
+      "lesson": "5",
+      "char": "荧",
+      "pinyin": "yíng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 40
+    },
+    {
+      "lesson": "5",
+      "char": "屏",
+      "pinyin": "píng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 41
+    },
+    {
+      "lesson": "5",
+      "char": "驾",
+      "pinyin": "jià",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 42
+    },
+    {
+      "lesson": "6",
+      "char": "橱",
+      "pinyin": "chú",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 43
+    },
+    {
+      "lesson": "6",
+      "char": "焦",
+      "pinyin": "jiāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 44
+    },
+    {
+      "lesson": "6",
+      "char": "扣",
+      "pinyin": "kòu",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 45
+    },
+    {
+      "lesson": "6",
+      "char": "嚷",
+      "pinyin": "rǎng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 46
+    },
+    {
+      "lesson": "6",
+      "char": "溜",
+      "pinyin": "liū",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 47
+    },
+    {
+      "lesson": "6",
+      "char": "筒",
+      "pinyin": "tǒng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 48
+    },
+    {
+      "lesson": "6",
+      "char": "董",
+      "pinyin": "dǒng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 49
+    },
+    {
+      "lesson": "7",
+      "char": "忌",
+      "pinyin": "jì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 50
+    },
+    {
+      "lesson": "7",
+      "char": "将",
+      "pinyin": "jiāng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 51
+    },
+    {
+      "lesson": "7",
+      "char": "获",
+      "pinyin": "huò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 52
+    },
+    {
+      "lesson": "7",
+      "char": "赢",
+      "pinyin": "yíng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 53
+    },
+    {
+      "lesson": "7",
+      "char": "拳",
+      "pinyin": "quán",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 54
+    },
+    {
+      "lesson": "7",
+      "char": "跃",
+      "pinyin": "yuè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 55
+    },
+    {
+      "lesson": "7",
+      "char": "测",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 56
+    },
+    {
+      "lesson": "7",
+      "char": "输",
+      "pinyin": "shū",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 57
+    },
+    {
+      "lesson": "7",
+      "char": "谋",
+      "pinyin": "móu",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 58
+    },
+    {
+      "lesson": "7",
+      "char": "划",
+      "pinyin": "huà",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 59
+    },
+    {
+      "lesson": "7",
+      "char": "策",
+      "pinyin": "cè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 60
+    },
+    {
+      "lesson": "7",
+      "char": "荐",
+      "pinyin": "jiàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 61
+    },
+    {
+      "lesson": "园地1",
+      "char": "钢",
+      "pinyin": "gāng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 62
+    },
+    {
+      "lesson": "园地1",
+      "char": "揍",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 63
+    },
+    {
+      "lesson": "园地1",
+      "char": "锈",
+      "pinyin": "xiù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 64
+    },
+    {
+      "lesson": "园地1",
+      "char": "沫",
+      "pinyin": "mò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 65
+    },
+    {
+      "lesson": "园地1",
+      "char": "综",
+      "pinyin": "zōng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 66
+    },
+    {
+      "lesson": "园地1",
+      "char": "氧",
+      "pinyin": "yǎng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 67
+    },
+    {
+      "lesson": "园地1",
+      "char": "账",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 68
+    },
+    {
+      "lesson": "园地1",
+      "char": "矿",
+      "pinyin": "kuàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 69
+    },
+    {
+      "lesson": "园地1",
+      "char": "俱",
+      "pinyin": "jù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 70
+    },
+    {
+      "lesson": "8",
+      "char": "暮",
+      "pinyin": "mù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 71
+    },
+    {
+      "lesson": "8",
+      "char": "残",
+      "pinyin": "cán",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 72
+    },
+    {
+      "lesson": "8",
+      "char": "瑟",
+      "pinyin": "sè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 73
+    },
+    {
+      "lesson": "8",
+      "char": "缘",
+      "pinyin": "yuán",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 74
+    },
+    {
+      "lesson": "8",
+      "char": "降",
+      "pinyin": "jiàng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 75
+    },
+    {
+      "lesson": "8",
+      "char": "骚",
+      "pinyin": "sāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 76
+    },
+    {
+      "lesson": "8",
+      "char": "评",
+      "pinyin": "píng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 77
+    },
+    {
+      "lesson": "8",
+      "char": "逊",
+      "pinyin": "xùn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 78
+    },
+    {
+      "lesson": "9",
+      "char": "茎",
+      "pinyin": "jīng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 79
+    },
+    {
+      "lesson": "9",
+      "char": "柄",
+      "pinyin": "bǐng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 80
+    },
+    {
+      "lesson": "9",
+      "char": "蜗",
+      "pinyin": "wō",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 81
+    },
+    {
+      "lesson": "9",
+      "char": "曲",
+      "pinyin": "qū",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 82
+    },
+    {
+      "lesson": "9",
+      "char": "萎",
+      "pinyin": "wěi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 83
+    },
+    {
+      "lesson": "10",
+      "char": "蟋",
+      "pinyin": "xī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 84
+    },
+    {
+      "lesson": "10",
+      "char": "蟀",
+      "pinyin": "shuài",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 85
+    },
+    {
+      "lesson": "10",
+      "char": "宅",
+      "pinyin": "zhái",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 86
+    },
+    {
+      "lesson": "10",
+      "char": "慎",
+      "pinyin": "shèn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 87
+    },
+    {
+      "lesson": "10",
+      "char": "址",
+      "pinyin": "zhǐ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 88
+    },
+    {
+      "lesson": "10",
+      "char": "畅",
+      "pinyin": "chàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 89
+    },
+    {
+      "lesson": "10",
+      "char": "倾",
+      "pinyin": "qīng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 90
+    },
+    {
+      "lesson": "10",
+      "char": "聚",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 91
+    },
+    {
+      "lesson": "10",
+      "char": "置",
+      "pinyin": "zhì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 92
+    },
+    {
+      "lesson": "10",
+      "char": "糙",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 93
+    },
+    {
+      "lesson": "10",
+      "char": "朴",
+      "pinyin": "pǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 94
+    },
+    {
+      "lesson": "10",
+      "char": "燥",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 95
+    },
+    {
+      "lesson": "11",
+      "char": "斧",
+      "pinyin": "fǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 96
+    },
+    {
+      "lesson": "11",
+      "char": "缓",
+      "pinyin": "huǎn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 97
+    },
+    {
+      "lesson": "11",
+      "char": "浊",
+      "pinyin": "zhuó",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 98
+    },
+    {
+      "lesson": "11",
+      "char": "丈",
+      "pinyin": "zhàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 99
+    },
+    {
+      "lesson": "11",
+      "char": "肢",
+      "pinyin": "zhī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 100
+    },
+    {
+      "lesson": "11",
+      "char": "躯",
+      "pinyin": "qū",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 101
+    },
+    {
+      "lesson": "11",
+      "char": "液",
+      "pinyin": "yè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 102
+    },
+    {
+      "lesson": "12",
+      "char": "曰",
+      "pinyin": "yuē",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 103
+    },
+    {
+      "lesson": "12",
+      "char": "溺",
+      "pinyin": "nì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 104
+    },
+    {
+      "lesson": "13",
+      "char": "斯",
+      "pinyin": "sī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 105
+    },
+    {
+      "lesson": "13",
+      "char": "悲",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 106
+    },
+    {
+      "lesson": "13",
+      "char": "惨",
+      "pinyin": "cǎn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 107
+    },
+    {
+      "lesson": "13",
+      "char": "盗",
+      "pinyin": "dào",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 108
+    },
+    {
+      "lesson": "13",
+      "char": "驰",
+      "pinyin": "chí",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 109
+    },
+    {
+      "lesson": "13",
+      "char": "佩",
+      "pinyin": "pèi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 110
+    },
+    {
+      "lesson": "13",
+      "char": "违",
+      "pinyin": "wéi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 111
+    },
+    {
+      "lesson": "13",
+      "char": "锁",
+      "pinyin": "suǒ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 112
+    },
+    {
+      "lesson": "13",
+      "char": "遭",
+      "pinyin": "zāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 113
+    },
+    {
+      "lesson": "13",
+      "char": "肝",
+      "pinyin": "gān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 114
+    },
+    {
+      "lesson": "13",
+      "char": "脏",
+      "pinyin": "zàng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 115
+    },
+    {
+      "lesson": "13",
+      "char": "愤",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 116
+    },
+    {
+      "lesson": "13",
+      "char": "砸",
+      "pinyin": "zá",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 117
+    },
+    {
+      "lesson": "14",
+      "char": "兽",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 118
+    },
+    {
+      "lesson": "14",
+      "char": "措",
+      "pinyin": "cuò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 119
+    },
+    {
+      "lesson": "14",
+      "char": "陷",
+      "pinyin": "xiàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 120
+    },
+    {
+      "lesson": "14",
+      "char": "混",
+      "pinyin": "hùn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 121
+    },
+    {
+      "lesson": "14",
+      "char": "拣",
+      "pinyin": "jiǎn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 122
+    },
+    {
+      "lesson": "14",
+      "char": "燃",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 123
+    },
+    {
+      "lesson": "14",
+      "char": "炼",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 124
+    },
+    {
+      "lesson": "14",
+      "char": "熄",
+      "pinyin": "xī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 125
+    },
+    {
+      "lesson": "14",
+      "char": "浆",
+      "pinyin": "jiāng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 126
+    },
+    {
+      "lesson": "14",
+      "char": "杀",
+      "pinyin": "shā",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 127
+    },
+    {
+      "lesson": "14",
+      "char": "颂",
+      "pinyin": "sòng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 128
+    },
+    {
+      "lesson": "园地2",
+      "char": "卉",
+      "pinyin": "huì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 129
+    },
+    {
+      "lesson": "园地2",
+      "char": "玫",
+      "pinyin": "méi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 130
+    },
+    {
+      "lesson": "园地2",
+      "char": "瑰",
+      "pinyin": "guī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 131
+    },
+    {
+      "lesson": "园地2",
+      "char": "牡",
+      "pinyin": "mǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 132
+    },
+    {
+      "lesson": "园地2",
+      "char": "丹",
+      "pinyin": "dān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 133
+    },
+    {
+      "lesson": "园地2",
+      "char": "蕾",
+      "pinyin": "lěi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 134
+    },
+    {
+      "lesson": "园地2",
+      "char": "茉",
+      "pinyin": "mò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 135
+    },
+    {
+      "lesson": "园地2",
+      "char": "莉",
+      "pinyin": "lì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 136
+    },
+    {
+      "lesson": "园地2",
+      "char": "棠",
+      "pinyin": "táng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 137
+    },
+    {
+      "lesson": "15",
+      "char": "嗅",
+      "pinyin": "xiù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 138
+    },
+    {
+      "lesson": "15",
+      "char": "奈",
+      "pinyin": "nài",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 139
+    },
+    {
+      "lesson": "15",
+      "char": "拯",
+      "pinyin": "zhěng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 140
+    },
+    {
+      "lesson": "15",
+      "char": "嘶",
+      "pinyin": "sī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 141
+    },
+    {
+      "lesson": "15",
+      "char": "哑",
+      "pinyin": "yǎ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 142
+    },
+    {
+      "lesson": "15",
+      "char": "牺",
+      "pinyin": "xī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 143
+    },
+    {
+      "lesson": "15",
+      "char": "牲",
+      "pinyin": "shēng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 144
+    },
+    {
+      "lesson": "15",
+      "char": "庞",
+      "pinyin": "páng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 145
+    },
+    {
+      "lesson": "16",
+      "char": "链",
+      "pinyin": "liàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 146
+    },
+    {
+      "lesson": "16",
+      "char": "颤",
+      "pinyin": "chàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 147
+    },
+    {
+      "lesson": "16",
+      "char": "攀",
+      "pinyin": "pān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 148
+    },
+    {
+      "lesson": "16",
+      "char": "辩",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 149
+    },
+    {
+      "lesson": "16",
+      "char": "呵",
+      "pinyin": "hē",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 150
+    },
+    {
+      "lesson": "17",
+      "char": "峻",
+      "pinyin": "jùn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 151
+    },
+    {
+      "lesson": "17",
+      "char": "基",
+      "pinyin": "jī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 152
+    },
+    {
+      "lesson": "17",
+      "char": "砌",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 153
+    },
+    {
+      "lesson": "17",
+      "char": "扩",
+      "pinyin": "kuò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 154
+    },
+    {
+      "lesson": "17",
+      "char": "砖",
+      "pinyin": "zhuān",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 155
+    },
+    {
+      "lesson": "17",
+      "char": "屯",
+      "pinyin": "tún",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 156
+    },
+    {
+      "lesson": "17",
+      "char": "兵",
+      "pinyin": "bīng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 157
+    },
+    {
+      "lesson": "17",
+      "char": "堡",
+      "pinyin": "bǎo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 158
+    },
+    {
+      "lesson": "17",
+      "char": "垒",
+      "pinyin": "lěi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 159
+    },
+    {
+      "lesson": "17",
+      "char": "仗",
+      "pinyin": "zhàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 160
+    },
+    {
+      "lesson": "17",
+      "char": "畜",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 161
+    },
+    {
+      "lesson": "17",
+      "char": "耗",
+      "pinyin": "hào",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 162
+    },
+    {
+      "lesson": "18",
+      "char": "殿",
+      "pinyin": "diàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 163
+    },
+    {
+      "lesson": "18",
+      "char": "漆",
+      "pinyin": "qī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 164
+    },
+    {
+      "lesson": "18",
+      "char": "琉",
+      "pinyin": "liú",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 165
+    },
+    {
+      "lesson": "18",
+      "char": "佛",
+      "pinyin": "fó",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 166
+    },
+    {
+      "lesson": "18",
+      "char": "煌",
+      "pinyin": "huáng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 167
+    },
+    {
+      "lesson": "19",
+      "char": "享",
+      "pinyin": "xiǎng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 168
+    },
+    {
+      "lesson": "19",
+      "char": "誉",
+      "pinyin": "yù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 169
+    },
+    {
+      "lesson": "19",
+      "char": "宏",
+      "pinyin": "hóng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 170
+    },
+    {
+      "lesson": "19",
+      "char": "皇",
+      "pinyin": "huáng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 171
+    },
+    {
+      "lesson": "19",
+      "char": "率",
+      "pinyin": "lǜ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 172
+    },
+    {
+      "lesson": "19",
+      "char": "着",
+      "pinyin": "zhuó",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 173
+    },
+    {
+      "lesson": "19",
+      "char": "靴",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 174
+    },
+    {
+      "lesson": "19",
+      "char": "誓",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 175
+    },
+    {
+      "lesson": "19",
+      "char": "塑",
+      "pinyin": "sù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 176
+    },
+    {
+      "lesson": "19",
+      "char": "惟",
+      "pinyin": "wéi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 177
+    },
+    {
+      "lesson": "19",
+      "char": "肖",
+      "pinyin": "xiào",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 178
+    },
+    {
+      "lesson": "19",
+      "char": "拟",
+      "pinyin": "nǐ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 179
+    },
+    {
+      "lesson": "19",
+      "char": "逼",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 180
+    },
+    {
+      "lesson": "园地3",
+      "char": "萨",
+      "pinyin": "sà",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 181
+    },
+    {
+      "lesson": "园地3",
+      "char": "昭",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 182
+    },
+    {
+      "lesson": "园地3",
+      "char": "陵",
+      "pinyin": "líng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 183
+    },
+    {
+      "lesson": "园地3",
+      "char": "寝",
+      "pinyin": "qǐn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 184
+    },
+    {
+      "lesson": "园地3",
+      "char": "堰",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 185
+    },
+    {
+      "lesson": "园地3",
+      "char": "尼",
+      "pinyin": "ní",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 186
+    },
+    {
+      "lesson": "园地3",
+      "char": "绸",
+      "pinyin": "chóu",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 187
+    },
+    {
+      "lesson": "园地3",
+      "char": "廊",
+      "pinyin": "láng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 188
+    },
+    {
+      "lesson": "20",
+      "char": "鹅",
+      "pinyin": "é",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 189
+    },
+    {
+      "lesson": "20",
+      "char": "屁",
+      "pinyin": "pì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 190
+    },
+    {
+      "lesson": "20",
+      "char": "股",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 191
+    },
+    {
+      "lesson": "20",
+      "char": "谓",
+      "pinyin": "wèi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 192
+    },
+    {
+      "lesson": "20",
+      "char": "捶",
+      "pinyin": "chuí",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 193
+    },
+    {
+      "lesson": "20",
+      "char": "顽",
+      "pinyin": "wán",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 194
+    },
+    {
+      "lesson": "20",
+      "char": "吁",
+      "pinyin": "xū",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 195
+    },
+    {
+      "lesson": "20",
+      "char": "膊",
+      "pinyin": "bo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 196
+    },
+    {
+      "lesson": "20",
+      "char": "瓶",
+      "pinyin": "píng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 197
+    },
+    {
+      "lesson": "20",
+      "char": "怖",
+      "pinyin": "bù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 198
+    },
+    {
+      "lesson": "20",
+      "char": "欺",
+      "pinyin": "qī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 199
+    },
+    {
+      "lesson": "20",
+      "char": "掐",
+      "pinyin": "qiā",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 200
+    },
+    {
+      "lesson": "21",
+      "char": "露",
+      "pinyin": "lòu",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 201
+    },
+    {
+      "lesson": "21",
+      "char": "羡",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 202
+    },
+    {
+      "lesson": "21",
+      "char": "殷",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 203
+    },
+    {
+      "lesson": "21",
+      "char": "逗",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 204
+    },
+    {
+      "lesson": "21",
+      "char": "撇",
+      "pinyin": "piē",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 205
+    },
+    {
+      "lesson": "21",
+      "char": "啊",
+      "pinyin": "a",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 206
+    },
+    {
+      "lesson": "21",
+      "char": "霉",
+      "pinyin": "méi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 207
+    },
+    {
+      "lesson": "21",
+      "char": "亏",
+      "pinyin": "kuī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 208
+    },
+    {
+      "lesson": "21",
+      "char": "撤",
+      "pinyin": "chè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 209
+    },
+    {
+      "lesson": "21",
+      "char": "哄",
+      "pinyin": "hōng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 210
+    },
+    {
+      "lesson": "21",
+      "char": "拙",
+      "pinyin": "zhuō",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 211
+    },
+    {
+      "lesson": "21",
+      "char": "唉",
+      "pinyin": "āi",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 212
+    },
+    {
+      "lesson": "22",
+      "char": "钉",
+      "pinyin": "dīng",
+      "blueSupplement": true,
+      "origin": "新版教材识字表·照片",
+      "idx": 213
+    },
+    {
+      "lesson": "22",
+      "char": "质",
+      "pinyin": "zhì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 214
+    },
+    {
+      "lesson": "22",
+      "char": "岳",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 215
+    },
+    {
+      "lesson": "22",
+      "char": "削",
+      "pinyin": "xiāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 216
+    },
+    {
+      "lesson": "22",
+      "char": "废",
+      "pinyin": "fèi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 217
+    },
+    {
+      "lesson": "22",
+      "char": "骂",
+      "pinyin": "mà",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 218
+    },
+    {
+      "lesson": "22",
+      "char": "帅",
+      "pinyin": "shuài",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 219
+    },
+    {
+      "lesson": "22",
+      "char": "蜜",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 220
+    },
+    {
+      "lesson": "22",
+      "char": "扭",
+      "pinyin": "niǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 221
+    },
+    {
+      "lesson": "22",
+      "char": "彻",
+      "pinyin": "chè",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 222
+    },
+    {
+      "lesson": "22",
+      "char": "溃",
+      "pinyin": "kuì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 223
+    },
+    {
+      "lesson": "22",
+      "char": "豪",
+      "pinyin": "háo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 224
+    },
+    {
+      "lesson": "23",
+      "char": "戎",
+      "pinyin": "róng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 225
+    },
+    {
+      "lesson": "23",
+      "char": "诸",
+      "pinyin": "zhū",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 226
+    },
+    {
+      "lesson": "23",
+      "char": "竞",
+      "pinyin": "jìng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 227
+    },
+    {
+      "lesson": "23",
+      "char": "唯",
+      "pinyin": "wéi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 228
+    },
+    {
+      "lesson": "园地4",
+      "char": "韭",
+      "pinyin": "jiǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 229
+    },
+    {
+      "lesson": "园地4",
+      "char": "芹",
+      "pinyin": "qín",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 230
+    },
+    {
+      "lesson": "园地4",
+      "char": "椒",
+      "pinyin": "jiāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 231
+    },
+    {
+      "lesson": "园地4",
+      "char": "蒜",
+      "pinyin": "suàn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 232
+    },
+    {
+      "lesson": "园地4",
+      "char": "薯",
+      "pinyin": "shǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 233
+    },
+    {
+      "lesson": "园地4",
+      "char": "藕",
+      "pinyin": "ǒu",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 234
+    },
+    {
+      "lesson": "园地4",
+      "char": "芋",
+      "pinyin": "yù",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 235
+    },
+    {
+      "lesson": "园地4",
+      "char": "姜",
+      "pinyin": "jiāng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 236
+    },
+    {
+      "lesson": "24",
+      "char": "菲",
+      "pinyin": "fēi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 237
+    },
+    {
+      "lesson": "24",
+      "char": "抛",
+      "pinyin": "pāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 238
+    },
+    {
+      "lesson": "24",
+      "char": "奉",
+      "pinyin": "fèng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 239
+    },
+    {
+      "lesson": "24",
+      "char": "亿",
+      "pinyin": "yì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 240
+    },
+    {
+      "lesson": "24",
+      "char": "邀",
+      "pinyin": "yāo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 241
+    },
+    {
+      "lesson": "25",
+      "char": "崛",
+      "pinyin": "jué",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 242
+    },
+    {
+      "lesson": "25",
+      "char": "范",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 243
+    },
+    {
+      "lesson": "25",
+      "char": "魏",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 244
+    },
+    {
+      "lesson": "25",
+      "char": "默",
+      "pinyin": "mò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 245
+    },
+    {
+      "lesson": "25",
+      "char": "晰",
+      "pinyin": "xī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 246
+    },
+    {
+      "lesson": "25",
+      "char": "惑",
+      "pinyin": "huò",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 247
+    },
+    {
+      "lesson": "25",
+      "char": "轧",
+      "pinyin": "yà",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 248
+    },
+    {
+      "lesson": "25",
+      "char": "惩",
+      "pinyin": "chéng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 249
+    },
+    {
+      "lesson": "25",
+      "char": "肇",
+      "pinyin": "?",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 250
+    },
+    {
+      "lesson": "25",
+      "char": "斥",
+      "pinyin": "chì",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 251
+    },
+    {
+      "lesson": "25",
+      "char": "辱",
+      "pinyin": "rǔ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 252
+    },
+    {
+      "lesson": "26",
+      "char": "昔",
+      "pinyin": "xī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 253
+    },
+    {
+      "lesson": "26",
+      "char": "茅",
+      "pinyin": "máo",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 254
+    },
+    {
+      "lesson": "26",
+      "char": "炕",
+      "pinyin": "kàng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 255
+    },
+    {
+      "lesson": "26",
+      "char": "索",
+      "pinyin": "suǒ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 256
+    },
+    {
+      "lesson": "26",
+      "char": "媚",
+      "pinyin": "mèi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 257
+    },
+    {
+      "lesson": "27",
+      "char": "催",
+      "pinyin": "cuī",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 258
+    },
+    {
+      "lesson": "27",
+      "char": "君",
+      "pinyin": "jūn",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 259
+    },
+    {
+      "lesson": "27",
+      "char": "征",
+      "pinyin": "zhēng",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 260
+    },
+    {
+      "lesson": "27",
+      "char": "塞",
+      "pinyin": "sāi",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 261
+    },
+    {
+      "lesson": "27",
+      "char": "秦",
+      "pinyin": "qín",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 262
+    },
+    {
+      "lesson": "27",
+      "char": "杰",
+      "pinyin": "jié",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 263
+    },
+    {
+      "lesson": "27",
+      "char": "鬼",
+      "pinyin": "guǐ",
+      "blueSupplement": false,
+      "origin": "新版教材识字表·照片",
+      "idx": 264
+    }
+  ],
+  "notes": [],
+  "proof": [],
+  "poly": [],
+  "metadata": {
+    "name": "高语牧·四年级上册语文｜新版教材",
+    "pages": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "writingMain": 250,
+    "vocabularyMain": 220,
+    "readingMain": 250,
+    "blueSupplementCount": 15,
+    "readingEntriesIncludingBlue": 265,
+    "status": "图片逐行抄录；读音仍待进一步复核。全部蓝字作为额外多音字保留。",
+    "legacyIsolated": true
+  }
+}
