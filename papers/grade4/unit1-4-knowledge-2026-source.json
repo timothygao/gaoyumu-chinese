@@ -11,7 +11,8 @@
     "schoolYear": "2026秋",
     "grade": 4,
     "child": "高语牧",
-    "description": "根据4张照片人工整理的知识清单；各单元包括词语、读音、多音字、近反义词、形近字、积累、课文回顾、写作与背诵。首次使用请核对字词。"
+    "description": "根据4张照片人工整理的知识清单；各单元包括词语、读音、多音字、近反义词、形近字、积累、课文回顾、写作与背诵。首次使用请核对字词。",
+    "pinyinStatus": "词语拼音优先关联已建立的四年级写字词语题库；无法关联的未擅自生成带声调拼音，可采用家长听写／纸笔模式。"
   },
   "units": [
     {
@@ -22,117 +23,163 @@
         {
           "id": "u1-v1",
           "word": "奇观",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "qí guān",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v2",
           "word": "据说",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jùshuō",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v3",
           "word": "人山人海",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "rén shān rén hǎi",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v4",
           "word": "顿时",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "dùn shí",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v5",
           "word": "风平浪静",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "fēng píng làngjìng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v6",
           "word": "逐渐",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhú jiàn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v7",
           "word": "齐头并进",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "qí tóu bìng jìn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v8",
           "word": "浩浩荡荡",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "hàohàodàng dàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v9",
           "word": "山崩地裂",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shān bēng dì liè",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v10",
           "word": "霎时",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shà shí",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v11",
           "word": "余波",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yú bō",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v12",
           "word": "繁星",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "fán xīng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v13",
           "word": "密密麻麻",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mì mì má má",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v14",
           "word": "忘记",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "wàng jì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v15",
           "word": "谈话",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "tán huà",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v16",
           "word": "渐渐",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jiàn jiàn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v17",
           "word": "模糊",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mó hú",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v18",
           "word": "周围",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhōu wéi",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v19",
           "word": "飞奔",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "",
+          "pinyinSource": "原图没有标出词语拼音，暂不伪造"
         },
         {
           "id": "u1-v20",
           "word": "柔和",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "róu hé",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v21",
           "word": "梦幻",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mèng huàn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v22",
           "word": "怀抱",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "huái bào",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u1-v23",
           "word": "沉睡",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "chén shuì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         }
       ],
       "readings": [
@@ -311,6 +358,17 @@
       ],
       "confusables": [
         {
+          "id": "u1-c0",
+          "left": {
+            "char": "堤",
+            "word": "大堤"
+          },
+          "right": {
+            "char": "提",
+            "word": "提问"
+          }
+        },
+        {
           "id": "u1-c1",
           "left": {
             "char": "震",
@@ -468,197 +526,275 @@
         {
           "id": "u2-v1",
           "word": "暖洋洋",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "nuǎn yáng yáng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v2",
           "word": "舒适",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shū shì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v3",
           "word": "揭晓",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jiēxiǎo",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v4",
           "word": "身份",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shēn fèn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v5",
           "word": "暖和",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "nuǎn huo",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v6",
           "word": "的确",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "dí què",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v7",
           "word": "曾经",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "céngjīng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v8",
           "word": "打滚",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "dǎ gǔn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v9",
           "word": "水沟",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shuǐ gōu",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v10",
           "word": "注视",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhùshì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v11",
           "word": "蚊子",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "wén zǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v12",
           "word": "即使",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jí shǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v13",
           "word": "问题",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "wèn tí",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v14",
           "word": "绳子",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shéng zǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v15",
           "word": "苍蝇",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "cāng yíng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v16",
           "word": "证明",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhèng míng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v17",
           "word": "相互",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "xiāng hù",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v18",
           "word": "配合",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "pèi hé",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v19",
           "word": "研究",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yán jiū",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v20",
           "word": "类似",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "lèisì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v21",
           "word": "能够",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "néng gòu",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v22",
           "word": "帽子",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mào zǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v23",
           "word": "脑袋",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "nǎo dai",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v24",
           "word": "舒服",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shū fú",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v25",
           "word": "假如",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jiǎ rú",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v26",
           "word": "设法",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shè fǎ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v27",
           "word": "懂事",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "dǒng shì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v28",
           "word": "一溜烟",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yī liù yān",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v29",
           "word": "各式各样",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "gè shì gè yàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v30",
           "word": "摆放",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "bǎi fàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v31",
           "word": "玻璃",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "bō li",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v32",
           "word": "提纲",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "tí gāng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v33",
           "word": "生锈",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "shēng xiù",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v34",
           "word": "泡沫",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "pào mò",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v35",
           "word": "综合",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zōnghé",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v36",
           "word": "氧气",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yǎng qì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v37",
           "word": "结账",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jié zhàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v38",
           "word": "矿物",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "kuàngwù",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u2-v39",
           "word": "俱乐部",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jù lè bù",
+          "pinyinSource": "现有四上新版教材题库同词条"
         }
       ],
       "readings": [
@@ -1005,112 +1141,156 @@
         {
           "id": "u3-v1",
           "word": "爬山虎",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "páshān hǔ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v2",
           "word": "操场",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "cāo chǎng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v3",
           "word": "嫩绿",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "nèn lǜ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v4",
           "word": "新鲜",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "xīn xiān",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v5",
           "word": "均匀",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jūn yún",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v6",
           "word": "空隙",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "kōngxì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v7",
           "word": "叶柄",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yè bǐng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v8",
           "word": "触角",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "chù jiǎo",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v9",
           "word": "弯曲",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "wān qū",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v10",
           "word": "痕迹",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "hén jì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v11",
           "word": "瞧不起",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "qiáo bù qǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v12",
           "word": "牢固",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "láo gù",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v13",
           "word": "住宅",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhù zhái",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v14",
           "word": "选择",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "xuǎn zé",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v15",
           "word": "住址",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhù zhǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v16",
           "word": "大厅",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "dà tīng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v17",
           "word": "柔弱",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "róu ruò",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v18",
           "word": "平坦",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "píng tǎn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v19",
           "word": "光滑",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "guāng huá",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v20",
           "word": "修理",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "xiū lǐ",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v21",
           "word": "重要",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhòng yào",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u3-v22",
           "word": "增长",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zēng zhǎng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         }
       ],
       "readings": [
@@ -1459,152 +1639,212 @@
         {
           "id": "u4-v1",
           "word": "宇宙",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yǔ zhòu",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v2",
           "word": "黑乎乎",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "hēi hū hū",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v3",
           "word": "翻身",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "fānshēn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v4",
           "word": "下降",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "xià jiàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v5",
           "word": "精疲力竭",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jīngpí lì jié",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v6",
           "word": "飘动",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "piāo dòng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v7",
           "word": "照耀",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhào yào",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v8",
           "word": "四肢",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "sì zhī",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v9",
           "word": "奔流不息",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "bēn liú bù xī",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v10",
           "word": "茂盛",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mào shèng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v11",
           "word": "整个",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhěng gè",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v12",
           "word": "喷射",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "pēn shè",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v13",
           "word": "气急败坏",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "qì jí bài huài",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v14",
           "word": "严厉",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "yán lì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v15",
           "word": "立即",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "lì jí",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v16",
           "word": "执行",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zhí xíng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v17",
           "word": "敬佩",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jìngpèi",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v18",
           "word": "坚定",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jiān dìng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v19",
           "word": "忍受",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "rěn shòu",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v20",
           "word": "遭受",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "zāo shòu",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v21",
           "word": "尽管",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "jǐn guǎn",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v22",
           "word": "屈服",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "qū fú",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v23",
           "word": "肝脏",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "gān zàng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v24",
           "word": "获得",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "huò dé",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v25",
           "word": "花卉",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "huā huì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v26",
           "word": "玫瑰",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "méiguī",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v27",
           "word": "牡丹",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mǔ dān",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v28",
           "word": "花蕾",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "huā lěi",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v29",
           "word": "茉莉",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "mò lì",
+          "pinyinSource": "现有四上新版教材题库同词条"
         },
         {
           "id": "u4-v30",
           "word": "海棠",
-          "source": "课本词语听写"
+          "source": "课本词语听写",
+          "pinyin": "hǎi táng",
+          "pinyinSource": "现有四上新版教材题库同词条"
         }
       ],
       "readings": [
